@@ -1,0 +1,601 @@
+defect_id,test_id,req_id,module,severity,release,description,status
+DEF-001,TC-066,REQ-033,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-002,TC-082,REQ-041,Inpatient Management,Low,R4,Defect in Inpatient Management during R4 testing,Resolved
+DEF-003,TC-100,REQ-050,Inpatient Management,Critical,R2,Defect in Inpatient Management during R2 testing,Open
+DEF-004,TC-075,REQ-038,Emergency Department,Medium,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-005,TC-049,REQ-025,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-006,TC-167,REQ-084,Billing,High,R3,Defect in Billing during R3 testing,Closed
+DEF-007,TC-017,REQ-009,Patient Registration,Critical,R3,Defect in Patient Registration during R3 testing,Resolved
+DEF-008,TC-090,REQ-045,Inpatient Management,High,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-009,TC-085,REQ-043,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-010,TC-072,REQ-036,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-011,TC-149,REQ-075,Radiology,Low,R3,Defect in Radiology during R3 testing,Closed
+DEF-012,TC-059,REQ-030,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-013,TC-095,REQ-048,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-014,TC-190,REQ-095,Insurance,Medium,R3,Defect in Insurance during R3 testing,Open
+DEF-015,TC-196,REQ-098,Insurance,Medium,R2,Defect in Insurance during R2 testing,Open
+DEF-016,TC-101,REQ-051,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-017,TC-167,REQ-084,Billing,Low,R2,Defect in Billing during R2 testing,Closed
+DEF-018,TC-172,REQ-086,Billing,Critical,R3,Defect in Billing during R3 testing,Closed
+DEF-019,TC-011,REQ-006,Patient Registration,Critical,R4,Defect in Patient Registration during R4 testing,Closed
+DEF-020,TC-077,REQ-039,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-021,TC-171,REQ-086,Billing,Low,R3,Defect in Billing during R3 testing,Closed
+DEF-022,TC-222,REQ-111,User Access Management,Low,R1,Defect in User Access Management during R1 testing,Closed
+DEF-023,TC-041,REQ-021,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-024,TC-192,REQ-096,Insurance,Low,R4,Defect in Insurance during R4 testing,Closed
+DEF-025,TC-031,REQ-016,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Resolved
+DEF-026,TC-013,REQ-007,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-027,TC-068,REQ-034,Emergency Department,Critical,R3,Defect in Emergency Department during R3 testing,Open
+DEF-028,TC-225,REQ-113,User Access Management,Medium,R2,Defect in User Access Management during R2 testing,Closed
+DEF-029,TC-237,REQ-119,User Access Management,Medium,R3,Defect in User Access Management during R3 testing,Resolved
+DEF-030,TC-119,REQ-060,Pharmacy,Critical,R4,Defect in Pharmacy during R4 testing,Resolved
+DEF-031,TC-165,REQ-083,Billing,Medium,R1,Defect in Billing during R1 testing,Resolved
+DEF-032,TC-011,REQ-006,Patient Registration,Medium,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-033,TC-090,REQ-045,Inpatient Management,Critical,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-034,TC-090,REQ-045,Inpatient Management,Low,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-035,TC-069,REQ-035,Emergency Department,Critical,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-036,TC-209,REQ-105,Medical Records,Low,R4,Defect in Medical Records during R4 testing,Closed
+DEF-037,TC-028,REQ-014,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Resolved
+DEF-038,TC-054,REQ-027,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-039,TC-065,REQ-033,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-040,TC-015,REQ-008,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-041,TC-042,REQ-021,Doctor Management,Medium,R4,Defect in Doctor Management during R4 testing,Resolved
+DEF-042,TC-140,REQ-070,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Resolved
+DEF-043,TC-151,REQ-076,Radiology,Medium,R2,Defect in Radiology during R2 testing,Closed
+DEF-044,TC-008,REQ-004,Patient Registration,Medium,R1,Defect in Patient Registration during R1 testing,Open
+DEF-045,TC-094,REQ-047,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Open
+DEF-046,TC-181,REQ-091,Insurance,Medium,R2,Defect in Insurance during R2 testing,Closed
+DEF-047,TC-107,REQ-054,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-048,TC-183,REQ-092,Insurance,High,R4,Defect in Insurance during R4 testing,Closed
+DEF-049,TC-201,REQ-101,Medical Records,Medium,R2,Defect in Medical Records during R2 testing,Resolved
+DEF-050,TC-201,REQ-101,Medical Records,Low,R3,Defect in Medical Records during R3 testing,Resolved
+DEF-051,TC-137,REQ-069,Laboratory,High,R1,Defect in Laboratory during R1 testing,Closed
+DEF-052,TC-005,REQ-003,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-053,TC-067,REQ-034,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-054,TC-232,REQ-116,User Access Management,Medium,R4,Defect in User Access Management during R4 testing,Closed
+DEF-055,TC-009,REQ-005,Patient Registration,Low,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-056,TC-233,REQ-117,User Access Management,Low,R1,Defect in User Access Management during R1 testing,Resolved
+DEF-057,TC-008,REQ-004,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-058,TC-089,REQ-045,Inpatient Management,Low,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-059,TC-157,REQ-079,Radiology,High,R1,Defect in Radiology during R1 testing,Open
+DEF-060,TC-117,REQ-059,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Open
+DEF-061,TC-135,REQ-068,Laboratory,High,R1,Defect in Laboratory during R1 testing,Closed
+DEF-062,TC-090,REQ-045,Inpatient Management,Critical,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-063,TC-141,REQ-071,Radiology,Medium,R3,Defect in Radiology during R3 testing,Open
+DEF-064,TC-051,REQ-026,Doctor Management,Medium,R4,Defect in Doctor Management during R4 testing,Open
+DEF-065,TC-114,REQ-057,Pharmacy,Critical,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-066,TC-238,REQ-119,User Access Management,Medium,R1,Defect in User Access Management during R1 testing,Closed
+DEF-067,TC-165,REQ-083,Billing,Medium,R1,Defect in Billing during R1 testing,Closed
+DEF-068,TC-212,REQ-106,Medical Records,Medium,R2,Defect in Medical Records during R2 testing,Closed
+DEF-069,TC-135,REQ-068,Laboratory,Medium,R4,Defect in Laboratory during R4 testing,Closed
+DEF-070,TC-068,REQ-034,Emergency Department,Critical,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-071,TC-046,REQ-023,Doctor Management,Low,R1,Defect in Doctor Management during R1 testing,Open
+DEF-072,TC-097,REQ-049,Inpatient Management,Medium,R3,Defect in Inpatient Management during R3 testing,Resolved
+DEF-073,TC-068,REQ-034,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-074,TC-180,REQ-090,Billing,Medium,R1,Defect in Billing during R1 testing,Resolved
+DEF-075,TC-134,REQ-067,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-076,TC-133,REQ-067,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-077,TC-137,REQ-069,Laboratory,High,R1,Defect in Laboratory during R1 testing,Closed
+DEF-078,TC-013,REQ-007,Patient Registration,Medium,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-079,TC-056,REQ-028,Doctor Management,Low,R2,Defect in Doctor Management during R2 testing,Open
+DEF-080,TC-101,REQ-051,Pharmacy,Critical,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-081,TC-006,REQ-003,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Open
+DEF-082,TC-029,REQ-015,Appointment Management,Medium,R1,Defect in Appointment Management during R1 testing,Resolved
+DEF-083,TC-135,REQ-068,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Resolved
+DEF-084,TC-108,REQ-054,Pharmacy,Critical,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-085,TC-013,REQ-007,Patient Registration,Medium,R2,Defect in Patient Registration during R2 testing,Open
+DEF-086,TC-084,REQ-042,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-087,TC-141,REQ-071,Radiology,High,R1,Defect in Radiology during R1 testing,Resolved
+DEF-088,TC-059,REQ-030,Doctor Management,High,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-089,TC-099,REQ-050,Inpatient Management,High,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-090,TC-179,REQ-090,Billing,Medium,R4,Defect in Billing during R4 testing,Resolved
+DEF-091,TC-135,REQ-068,Laboratory,High,R4,Defect in Laboratory during R4 testing,Resolved
+DEF-092,TC-039,REQ-020,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-093,TC-225,REQ-113,User Access Management,Low,R1,Defect in User Access Management during R1 testing,Resolved
+DEF-094,TC-172,REQ-086,Billing,Medium,R3,Defect in Billing during R3 testing,Open
+DEF-095,TC-078,REQ-039,Emergency Department,Medium,R4,Defect in Emergency Department during R4 testing,Closed
+DEF-096,TC-115,REQ-058,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-097,TC-210,REQ-105,Medical Records,High,R2,Defect in Medical Records during R2 testing,Closed
+DEF-098,TC-168,REQ-084,Billing,Medium,R2,Defect in Billing during R2 testing,Closed
+DEF-099,TC-213,REQ-107,Medical Records,Low,R3,Defect in Medical Records during R3 testing,Closed
+DEF-100,TC-059,REQ-030,Doctor Management,Medium,R2,Defect in Doctor Management during R2 testing,Closed
+DEF-101,TC-166,REQ-083,Billing,Medium,R4,Defect in Billing during R4 testing,Resolved
+DEF-102,TC-115,REQ-058,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-103,TC-233,REQ-117,User Access Management,Critical,R1,Defect in User Access Management during R1 testing,Closed
+DEF-104,TC-036,REQ-018,Appointment Management,Low,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-105,TC-073,REQ-037,Emergency Department,Critical,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-106,TC-034,REQ-017,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-107,TC-096,REQ-048,Inpatient Management,High,R3,Defect in Inpatient Management during R3 testing,Resolved
+DEF-108,TC-078,REQ-039,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-109,TC-010,REQ-005,Patient Registration,Low,R4,Defect in Patient Registration during R4 testing,Resolved
+DEF-110,TC-188,REQ-094,Insurance,Medium,R3,Defect in Insurance during R3 testing,Closed
+DEF-111,TC-067,REQ-034,Emergency Department,Critical,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-112,TC-218,REQ-109,Medical Records,High,R3,Defect in Medical Records during R3 testing,Open
+DEF-113,TC-078,REQ-039,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-114,TC-120,REQ-060,Pharmacy,Critical,R3,Defect in Pharmacy during R3 testing,Open
+DEF-115,TC-083,REQ-042,Inpatient Management,Low,R1,Defect in Inpatient Management during R1 testing,Open
+DEF-116,TC-105,REQ-053,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-117,TC-212,REQ-106,Medical Records,Medium,R2,Defect in Medical Records during R2 testing,Open
+DEF-118,TC-009,REQ-005,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-119,TC-175,REQ-088,Billing,Medium,R3,Defect in Billing during R3 testing,Open
+DEF-120,TC-119,REQ-060,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-121,TC-070,REQ-035,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-122,TC-014,REQ-007,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-123,TC-052,REQ-026,Doctor Management,Low,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-124,TC-019,REQ-010,Patient Registration,Medium,R2,Defect in Patient Registration during R2 testing,Closed
+DEF-125,TC-161,REQ-081,Billing,Medium,R2,Defect in Billing during R2 testing,Closed
+DEF-126,TC-179,REQ-090,Billing,Medium,R3,Defect in Billing during R3 testing,Open
+DEF-127,TC-137,REQ-069,Laboratory,Low,R2,Defect in Laboratory during R2 testing,Resolved
+DEF-128,TC-155,REQ-078,Radiology,Medium,R1,Defect in Radiology during R1 testing,Closed
+DEF-129,TC-154,REQ-077,Radiology,Low,R3,Defect in Radiology during R3 testing,Resolved
+DEF-130,TC-030,REQ-015,Appointment Management,Medium,R1,Defect in Appointment Management during R1 testing,Open
+DEF-131,TC-234,REQ-117,User Access Management,Low,R3,Defect in User Access Management during R3 testing,Open
+DEF-132,TC-095,REQ-048,Inpatient Management,Medium,R4,Defect in Inpatient Management during R4 testing,Closed
+DEF-133,TC-103,REQ-052,Pharmacy,Medium,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-134,TC-083,REQ-042,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-135,TC-019,REQ-010,Patient Registration,High,R4,Defect in Patient Registration during R4 testing,Closed
+DEF-136,TC-073,REQ-037,Emergency Department,Critical,R4,Defect in Emergency Department during R4 testing,Resolved
+DEF-137,TC-068,REQ-034,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-138,TC-066,REQ-033,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-139,TC-078,REQ-039,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Open
+DEF-140,TC-129,REQ-065,Laboratory,High,R3,Defect in Laboratory during R3 testing,Open
+DEF-141,TC-061,REQ-031,Emergency Department,Medium,R4,Defect in Emergency Department during R4 testing,Closed
+DEF-142,TC-146,REQ-073,Radiology,Low,R2,Defect in Radiology during R2 testing,Resolved
+DEF-143,TC-168,REQ-084,Billing,Low,R2,Defect in Billing during R2 testing,Resolved
+DEF-144,TC-120,REQ-060,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-145,TC-147,REQ-074,Radiology,High,R2,Defect in Radiology during R2 testing,Closed
+DEF-146,TC-006,REQ-003,Patient Registration,Medium,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-147,TC-167,REQ-084,Billing,High,R1,Defect in Billing during R1 testing,Resolved
+DEF-148,TC-115,REQ-058,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-149,TC-006,REQ-003,Patient Registration,Medium,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-150,TC-168,REQ-084,Billing,High,R1,Defect in Billing during R1 testing,Closed
+DEF-151,TC-152,REQ-076,Radiology,Medium,R2,Defect in Radiology during R2 testing,Closed
+DEF-152,TC-042,REQ-021,Doctor Management,High,R2,Defect in Doctor Management during R2 testing,Closed
+DEF-153,TC-039,REQ-020,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Open
+DEF-154,TC-012,REQ-006,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-155,TC-127,REQ-064,Laboratory,High,R2,Defect in Laboratory during R2 testing,Closed
+DEF-156,TC-060,REQ-030,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-157,TC-140,REQ-070,Laboratory,Low,R2,Defect in Laboratory during R2 testing,Closed
+DEF-158,TC-170,REQ-085,Billing,Low,R3,Defect in Billing during R3 testing,Closed
+DEF-159,TC-050,REQ-025,Doctor Management,Low,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-160,TC-067,REQ-034,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-161,TC-100,REQ-050,Inpatient Management,Medium,R3,Defect in Inpatient Management during R3 testing,Closed
+DEF-162,TC-066,REQ-033,Emergency Department,Low,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-163,TC-124,REQ-062,Laboratory,Low,R3,Defect in Laboratory during R3 testing,Closed
+DEF-164,TC-009,REQ-005,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-165,TC-017,REQ-009,Patient Registration,Medium,R2,Defect in Patient Registration during R2 testing,Open
+DEF-166,TC-024,REQ-012,Appointment Management,Medium,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-167,TC-128,REQ-064,Laboratory,High,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-168,TC-232,REQ-116,User Access Management,Medium,R2,Defect in User Access Management during R2 testing,Resolved
+DEF-169,TC-080,REQ-040,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-170,TC-098,REQ-049,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-171,TC-198,REQ-099,Insurance,Medium,R3,Defect in Insurance during R3 testing,Resolved
+DEF-172,TC-236,REQ-118,User Access Management,Medium,R1,Defect in User Access Management during R1 testing,Open
+DEF-173,TC-119,REQ-060,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-174,TC-079,REQ-040,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-175,TC-016,REQ-008,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Open
+DEF-176,TC-117,REQ-059,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Open
+DEF-177,TC-181,REQ-091,Insurance,Medium,R1,Defect in Insurance during R1 testing,Closed
+DEF-178,TC-171,REQ-086,Billing,Medium,R2,Defect in Billing during R2 testing,Open
+DEF-179,TC-227,REQ-114,User Access Management,High,R2,Defect in User Access Management during R2 testing,Closed
+DEF-180,TC-218,REQ-109,Medical Records,Medium,R2,Defect in Medical Records during R2 testing,Resolved
+DEF-181,TC-207,REQ-104,Medical Records,Medium,R1,Defect in Medical Records during R1 testing,Open
+DEF-182,TC-075,REQ-038,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-183,TC-129,REQ-065,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Open
+DEF-184,TC-115,REQ-058,Pharmacy,Critical,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-185,TC-033,REQ-017,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-186,TC-076,REQ-038,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-187,TC-069,REQ-035,Emergency Department,Critical,R2,Defect in Emergency Department during R2 testing,Resolved
+DEF-188,TC-063,REQ-032,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Open
+DEF-189,TC-025,REQ-013,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Open
+DEF-190,TC-081,REQ-041,Inpatient Management,High,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-191,TC-108,REQ-054,Pharmacy,Medium,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-192,TC-165,REQ-083,Billing,Low,R1,Defect in Billing during R1 testing,Resolved
+DEF-193,TC-131,REQ-066,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Closed
+DEF-194,TC-036,REQ-018,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Resolved
+DEF-195,TC-103,REQ-052,Pharmacy,Medium,R2,Defect in Pharmacy during R2 testing,Open
+DEF-196,TC-026,REQ-013,Appointment Management,Low,R2,Defect in Appointment Management during R2 testing,Resolved
+DEF-197,TC-041,REQ-021,Doctor Management,Low,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-198,TC-174,REQ-087,Billing,Medium,R1,Defect in Billing during R1 testing,Closed
+DEF-199,TC-066,REQ-033,Emergency Department,Medium,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-200,TC-046,REQ-023,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-201,TC-010,REQ-005,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-202,TC-036,REQ-018,Appointment Management,Low,R4,Defect in Appointment Management during R4 testing,Open
+DEF-203,TC-130,REQ-065,Laboratory,Medium,R3,Defect in Laboratory during R3 testing,Resolved
+DEF-204,TC-170,REQ-085,Billing,Low,R1,Defect in Billing during R1 testing,Closed
+DEF-205,TC-010,REQ-005,Patient Registration,Medium,R1,Defect in Patient Registration during R1 testing,Open
+DEF-206,TC-158,REQ-079,Radiology,Medium,R4,Defect in Radiology during R4 testing,Closed
+DEF-207,TC-025,REQ-013,Appointment Management,Low,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-208,TC-017,REQ-009,Patient Registration,Critical,R2,Defect in Patient Registration during R2 testing,Closed
+DEF-209,TC-215,REQ-108,Medical Records,Medium,R3,Defect in Medical Records during R3 testing,Resolved
+DEF-210,TC-107,REQ-054,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Resolved
+DEF-211,TC-115,REQ-058,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-212,TC-043,REQ-022,Doctor Management,Low,R2,Defect in Doctor Management during R2 testing,Closed
+DEF-213,TC-072,REQ-036,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-214,TC-118,REQ-059,Pharmacy,Critical,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-215,TC-136,REQ-068,Laboratory,High,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-216,TC-183,REQ-092,Insurance,Medium,R2,Defect in Insurance during R2 testing,Closed
+DEF-217,TC-103,REQ-052,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-218,TC-163,REQ-082,Billing,Medium,R1,Defect in Billing during R1 testing,Resolved
+DEF-219,TC-220,REQ-110,Medical Records,Low,R3,Defect in Medical Records during R3 testing,Resolved
+DEF-220,TC-115,REQ-058,Pharmacy,Medium,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-221,TC-088,REQ-044,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-222,TC-129,REQ-065,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Closed
+DEF-223,TC-169,REQ-085,Billing,Low,R3,Defect in Billing during R3 testing,Resolved
+DEF-224,TC-092,REQ-046,Inpatient Management,Medium,R3,Defect in Inpatient Management during R3 testing,Open
+DEF-225,TC-162,REQ-081,Billing,Medium,R3,Defect in Billing during R3 testing,Resolved
+DEF-226,TC-093,REQ-047,Inpatient Management,High,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-227,TC-082,REQ-041,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-228,TC-097,REQ-049,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-229,TC-123,REQ-062,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Open
+DEF-230,TC-149,REQ-075,Radiology,Low,R1,Defect in Radiology during R1 testing,Closed
+DEF-231,TC-208,REQ-104,Medical Records,Low,R4,Defect in Medical Records during R4 testing,Resolved
+DEF-232,TC-123,REQ-062,Laboratory,High,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-233,TC-136,REQ-068,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Closed
+DEF-234,TC-138,REQ-069,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-235,TC-026,REQ-013,Appointment Management,Low,R3,Defect in Appointment Management during R3 testing,Resolved
+DEF-236,TC-063,REQ-032,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-237,TC-155,REQ-078,Radiology,Critical,R3,Defect in Radiology during R3 testing,Closed
+DEF-238,TC-141,REQ-071,Radiology,Low,R3,Defect in Radiology during R3 testing,Closed
+DEF-239,TC-056,REQ-028,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Open
+DEF-240,TC-129,REQ-065,Laboratory,High,R2,Defect in Laboratory during R2 testing,Resolved
+DEF-241,TC-033,REQ-017,Appointment Management,High,R1,Defect in Appointment Management during R1 testing,Resolved
+DEF-242,TC-109,REQ-055,Pharmacy,Medium,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-243,TC-044,REQ-022,Doctor Management,Low,R2,Defect in Doctor Management during R2 testing,Resolved
+DEF-244,TC-022,REQ-011,Appointment Management,Critical,R4,Defect in Appointment Management during R4 testing,Closed
+DEF-245,TC-152,REQ-076,Radiology,Medium,R2,Defect in Radiology during R2 testing,Closed
+DEF-246,TC-151,REQ-076,Radiology,Low,R1,Defect in Radiology during R1 testing,Resolved
+DEF-247,TC-187,REQ-094,Insurance,Low,R3,Defect in Insurance during R3 testing,Resolved
+DEF-248,TC-135,REQ-068,Laboratory,Medium,R3,Defect in Laboratory during R3 testing,Closed
+DEF-249,TC-144,REQ-072,Radiology,High,R2,Defect in Radiology during R2 testing,Open
+DEF-250,TC-047,REQ-024,Doctor Management,Medium,R2,Defect in Doctor Management during R2 testing,Resolved
+DEF-251,TC-116,REQ-058,Pharmacy,Critical,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-252,TC-031,REQ-016,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-253,TC-174,REQ-087,Billing,High,R3,Defect in Billing during R3 testing,Closed
+DEF-254,TC-238,REQ-119,User Access Management,Critical,R4,Defect in User Access Management during R4 testing,Closed
+DEF-255,TC-059,REQ-030,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Resolved
+DEF-256,TC-117,REQ-059,Pharmacy,Critical,R4,Defect in Pharmacy during R4 testing,Closed
+DEF-257,TC-074,REQ-037,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-258,TC-002,REQ-001,Patient Registration,High,R2,Defect in Patient Registration during R2 testing,Open
+DEF-259,TC-022,REQ-011,Appointment Management,Low,R3,Defect in Appointment Management during R3 testing,Resolved
+DEF-260,TC-176,REQ-088,Billing,Medium,R2,Defect in Billing during R2 testing,Closed
+DEF-261,TC-163,REQ-082,Billing,Critical,R3,Defect in Billing during R3 testing,Open
+DEF-262,TC-128,REQ-064,Laboratory,Critical,R3,Defect in Laboratory during R3 testing,Resolved
+DEF-263,TC-065,REQ-033,Emergency Department,Critical,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-264,TC-108,REQ-054,Pharmacy,Critical,R2,Defect in Pharmacy during R2 testing,Open
+DEF-265,TC-069,REQ-035,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-266,TC-225,REQ-113,User Access Management,Medium,R2,Defect in User Access Management during R2 testing,Closed
+DEF-267,TC-194,REQ-097,Insurance,Medium,R2,Defect in Insurance during R2 testing,Resolved
+DEF-268,TC-114,REQ-057,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-269,TC-021,REQ-011,Appointment Management,Low,R4,Defect in Appointment Management during R4 testing,Closed
+DEF-270,TC-130,REQ-065,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Closed
+DEF-271,TC-209,REQ-105,Medical Records,High,R3,Defect in Medical Records during R3 testing,Open
+DEF-272,TC-132,REQ-066,Laboratory,Low,R3,Defect in Laboratory during R3 testing,Closed
+DEF-273,TC-081,REQ-041,Inpatient Management,Critical,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-274,TC-075,REQ-038,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-275,TC-024,REQ-012,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-276,TC-201,REQ-101,Medical Records,Low,R3,Defect in Medical Records during R3 testing,Resolved
+DEF-277,TC-188,REQ-094,Insurance,Low,R1,Defect in Insurance during R1 testing,Resolved
+DEF-278,TC-103,REQ-052,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-279,TC-109,REQ-055,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-280,TC-120,REQ-060,Pharmacy,Critical,R4,Defect in Pharmacy during R4 testing,Closed
+DEF-281,TC-136,REQ-068,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Open
+DEF-282,TC-137,REQ-069,Laboratory,Low,R3,Defect in Laboratory during R3 testing,Resolved
+DEF-283,TC-015,REQ-008,Patient Registration,Medium,R4,Defect in Patient Registration during R4 testing,Closed
+DEF-284,TC-140,REQ-070,Laboratory,High,R2,Defect in Laboratory during R2 testing,Closed
+DEF-285,TC-052,REQ-026,Doctor Management,High,R2,Defect in Doctor Management during R2 testing,Closed
+DEF-286,TC-109,REQ-055,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-287,TC-024,REQ-012,Appointment Management,Medium,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-288,TC-234,REQ-117,User Access Management,Medium,R1,Defect in User Access Management during R1 testing,Resolved
+DEF-289,TC-197,REQ-099,Insurance,Critical,R2,Defect in Insurance during R2 testing,Resolved
+DEF-290,TC-165,REQ-083,Billing,Critical,R3,Defect in Billing during R3 testing,Closed
+DEF-291,TC-114,REQ-057,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-292,TC-117,REQ-059,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-293,TC-103,REQ-052,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-294,TC-073,REQ-037,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-295,TC-078,REQ-039,Emergency Department,Low,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-296,TC-056,REQ-028,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-297,TC-094,REQ-047,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-298,TC-158,REQ-079,Radiology,Low,R2,Defect in Radiology during R2 testing,Closed
+DEF-299,TC-168,REQ-084,Billing,Medium,R4,Defect in Billing during R4 testing,Resolved
+DEF-300,TC-177,REQ-089,Billing,Critical,R3,Defect in Billing during R3 testing,Resolved
+DEF-301,TC-194,REQ-097,Insurance,Low,R3,Defect in Insurance during R3 testing,Closed
+DEF-302,TC-100,REQ-050,Inpatient Management,Critical,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-303,TC-100,REQ-050,Inpatient Management,High,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-304,TC-192,REQ-096,Insurance,Critical,R2,Defect in Insurance during R2 testing,Closed
+DEF-305,TC-026,REQ-013,Appointment Management,Critical,R2,Defect in Appointment Management during R2 testing,Resolved
+DEF-306,TC-168,REQ-084,Billing,Medium,R1,Defect in Billing during R1 testing,Resolved
+DEF-307,TC-080,REQ-040,Emergency Department,Low,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-308,TC-166,REQ-083,Billing,High,R2,Defect in Billing during R2 testing,Open
+DEF-309,TC-056,REQ-028,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-310,TC-092,REQ-046,Inpatient Management,Low,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-311,TC-159,REQ-080,Radiology,Low,R1,Defect in Radiology during R1 testing,Closed
+DEF-312,TC-074,REQ-037,Emergency Department,Low,R2,Defect in Emergency Department during R2 testing,Resolved
+DEF-313,TC-141,REQ-071,Radiology,Low,R1,Defect in Radiology during R1 testing,Closed
+DEF-314,TC-014,REQ-007,Patient Registration,High,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-315,TC-139,REQ-070,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Closed
+DEF-316,TC-081,REQ-041,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Open
+DEF-317,TC-118,REQ-059,Pharmacy,Medium,R4,Defect in Pharmacy during R4 testing,Closed
+DEF-318,TC-190,REQ-095,Insurance,Low,R3,Defect in Insurance during R3 testing,Open
+DEF-319,TC-194,REQ-097,Insurance,Low,R2,Defect in Insurance during R2 testing,Closed
+DEF-320,TC-109,REQ-055,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-321,TC-055,REQ-028,Doctor Management,Medium,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-322,TC-052,REQ-026,Doctor Management,High,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-323,TC-194,REQ-097,Insurance,Medium,R3,Defect in Insurance during R3 testing,Closed
+DEF-324,TC-217,REQ-109,Medical Records,Low,R2,Defect in Medical Records during R2 testing,Closed
+DEF-325,TC-071,REQ-036,Emergency Department,Critical,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-326,TC-047,REQ-024,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-327,TC-066,REQ-033,Emergency Department,Low,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-328,TC-010,REQ-005,Patient Registration,High,R4,Defect in Patient Registration during R4 testing,Closed
+DEF-329,TC-095,REQ-048,Inpatient Management,Low,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-330,TC-215,REQ-108,Medical Records,High,R2,Defect in Medical Records during R2 testing,Closed
+DEF-331,TC-068,REQ-034,Emergency Department,Medium,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-332,TC-166,REQ-083,Billing,High,R1,Defect in Billing during R1 testing,Closed
+DEF-333,TC-158,REQ-079,Radiology,Medium,R3,Defect in Radiology during R3 testing,Closed
+DEF-334,TC-125,REQ-063,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Closed
+DEF-335,TC-064,REQ-032,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-336,TC-074,REQ-037,Emergency Department,Medium,R1,Defect in Emergency Department during R1 testing,Resolved
+DEF-337,TC-072,REQ-036,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-338,TC-198,REQ-099,Insurance,Low,R3,Defect in Insurance during R3 testing,Closed
+DEF-339,TC-106,REQ-053,Pharmacy,Critical,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-340,TC-167,REQ-084,Billing,Medium,R3,Defect in Billing during R3 testing,Closed
+DEF-341,TC-087,REQ-044,Inpatient Management,Low,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-342,TC-067,REQ-034,Emergency Department,Low,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-343,TC-228,REQ-114,User Access Management,Critical,R4,Defect in User Access Management during R4 testing,Resolved
+DEF-344,TC-202,REQ-101,Medical Records,Low,R2,Defect in Medical Records during R2 testing,Closed
+DEF-345,TC-063,REQ-032,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-346,TC-074,REQ-037,Emergency Department,Critical,R4,Defect in Emergency Department during R4 testing,Open
+DEF-347,TC-108,REQ-054,Pharmacy,Critical,R4,Defect in Pharmacy during R4 testing,Closed
+DEF-348,TC-164,REQ-082,Billing,Medium,R1,Defect in Billing during R1 testing,Open
+DEF-349,TC-014,REQ-007,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-350,TC-020,REQ-010,Patient Registration,High,R2,Defect in Patient Registration during R2 testing,Resolved
+DEF-351,TC-115,REQ-058,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-352,TC-091,REQ-046,Inpatient Management,Critical,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-353,TC-026,REQ-013,Appointment Management,High,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-354,TC-092,REQ-046,Inpatient Management,Low,R4,Defect in Inpatient Management during R4 testing,Closed
+DEF-355,TC-046,REQ-023,Doctor Management,Low,R2,Defect in Doctor Management during R2 testing,Resolved
+DEF-356,TC-102,REQ-051,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Open
+DEF-357,TC-103,REQ-052,Pharmacy,Medium,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-358,TC-172,REQ-086,Billing,Critical,R1,Defect in Billing during R1 testing,Open
+DEF-359,TC-105,REQ-053,Pharmacy,Low,R2,Defect in Pharmacy during R2 testing,Closed
+DEF-360,TC-064,REQ-032,Emergency Department,Low,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-361,TC-067,REQ-034,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-362,TC-021,REQ-011,Appointment Management,Low,R3,Defect in Appointment Management during R3 testing,Closed
+DEF-363,TC-055,REQ-028,Doctor Management,High,R2,Defect in Doctor Management during R2 testing,Closed
+DEF-364,TC-194,REQ-097,Insurance,Low,R2,Defect in Insurance during R2 testing,Closed
+DEF-365,TC-074,REQ-037,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-366,TC-022,REQ-011,Appointment Management,Medium,R4,Defect in Appointment Management during R4 testing,Resolved
+DEF-367,TC-115,REQ-058,Pharmacy,Critical,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-368,TC-178,REQ-089,Billing,Low,R1,Defect in Billing during R1 testing,Closed
+DEF-369,TC-164,REQ-082,Billing,Low,R2,Defect in Billing during R2 testing,Closed
+DEF-370,TC-021,REQ-011,Appointment Management,Low,R4,Defect in Appointment Management during R4 testing,Open
+DEF-371,TC-236,REQ-118,User Access Management,Low,R2,Defect in User Access Management during R2 testing,Closed
+DEF-372,TC-164,REQ-082,Billing,Low,R1,Defect in Billing during R1 testing,Closed
+DEF-373,TC-037,REQ-019,Appointment Management,Medium,R4,Defect in Appointment Management during R4 testing,Resolved
+DEF-374,TC-098,REQ-049,Inpatient Management,Medium,R3,Defect in Inpatient Management during R3 testing,Open
+DEF-375,TC-050,REQ-025,Doctor Management,Low,R2,Defect in Doctor Management during R2 testing,Closed
+DEF-376,TC-063,REQ-032,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-377,TC-118,REQ-059,Pharmacy,Critical,R4,Defect in Pharmacy during R4 testing,Closed
+DEF-378,TC-063,REQ-032,Emergency Department,Low,R4,Defect in Emergency Department during R4 testing,Resolved
+DEF-379,TC-181,REQ-091,Insurance,Medium,R1,Defect in Insurance during R1 testing,Closed
+DEF-380,TC-138,REQ-069,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Closed
+DEF-381,TC-123,REQ-062,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Closed
+DEF-382,TC-176,REQ-088,Billing,High,R2,Defect in Billing during R2 testing,Closed
+DEF-383,TC-135,REQ-068,Laboratory,Low,R3,Defect in Laboratory during R3 testing,Closed
+DEF-384,TC-070,REQ-035,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Open
+DEF-385,TC-115,REQ-058,Pharmacy,Critical,R3,Defect in Pharmacy during R3 testing,Resolved
+DEF-386,TC-122,REQ-061,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Closed
+DEF-387,TC-201,REQ-101,Medical Records,Low,R1,Defect in Medical Records during R1 testing,Open
+DEF-388,TC-075,REQ-038,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Resolved
+DEF-389,TC-097,REQ-049,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-390,TC-107,REQ-054,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-391,TC-197,REQ-099,Insurance,Low,R1,Defect in Insurance during R1 testing,Closed
+DEF-392,TC-127,REQ-064,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Closed
+DEF-393,TC-119,REQ-060,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-394,TC-110,REQ-055,Pharmacy,Medium,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-395,TC-062,REQ-031,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Open
+DEF-396,TC-074,REQ-037,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Open
+DEF-397,TC-117,REQ-059,Pharmacy,Medium,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-398,TC-164,REQ-082,Billing,Medium,R1,Defect in Billing during R1 testing,Closed
+DEF-399,TC-073,REQ-037,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-400,TC-007,REQ-004,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-401,TC-006,REQ-003,Patient Registration,Critical,R3,Defect in Patient Registration during R3 testing,Resolved
+DEF-402,TC-041,REQ-021,Doctor Management,High,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-403,TC-149,REQ-075,Radiology,High,R1,Defect in Radiology during R1 testing,Closed
+DEF-404,TC-140,REQ-070,Laboratory,High,R2,Defect in Laboratory during R2 testing,Open
+DEF-405,TC-021,REQ-011,Appointment Management,Low,R4,Defect in Appointment Management during R4 testing,Resolved
+DEF-406,TC-059,REQ-030,Doctor Management,Critical,R1,Defect in Doctor Management during R1 testing,Open
+DEF-407,TC-178,REQ-089,Billing,Medium,R2,Defect in Billing during R2 testing,Open
+DEF-408,TC-090,REQ-045,Inpatient Management,Medium,R3,Defect in Inpatient Management during R3 testing,Open
+DEF-409,TC-072,REQ-036,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-410,TC-193,REQ-097,Insurance,High,R2,Defect in Insurance during R2 testing,Resolved
+DEF-411,TC-237,REQ-119,User Access Management,Low,R3,Defect in User Access Management during R3 testing,Resolved
+DEF-412,TC-084,REQ-042,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-413,TC-001,REQ-001,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-414,TC-017,REQ-009,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-415,TC-112,REQ-056,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Open
+DEF-416,TC-188,REQ-094,Insurance,Medium,R2,Defect in Insurance during R2 testing,Closed
+DEF-417,TC-180,REQ-090,Billing,Medium,R3,Defect in Billing during R3 testing,Closed
+DEF-418,TC-160,REQ-080,Radiology,Medium,R2,Defect in Radiology during R2 testing,Closed
+DEF-419,TC-163,REQ-082,Billing,Medium,R2,Defect in Billing during R2 testing,Open
+DEF-420,TC-068,REQ-034,Emergency Department,Critical,R4,Defect in Emergency Department during R4 testing,Closed
+DEF-421,TC-102,REQ-051,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Open
+DEF-422,TC-093,REQ-047,Inpatient Management,Low,R3,Defect in Inpatient Management during R3 testing,Closed
+DEF-423,TC-061,REQ-031,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-424,TC-172,REQ-086,Billing,Low,R2,Defect in Billing during R2 testing,Closed
+DEF-425,TC-062,REQ-031,Emergency Department,Critical,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-426,TC-171,REQ-086,Billing,Medium,R3,Defect in Billing during R3 testing,Closed
+DEF-427,TC-083,REQ-042,Inpatient Management,Low,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-428,TC-001,REQ-001,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Open
+DEF-429,TC-015,REQ-008,Patient Registration,High,R2,Defect in Patient Registration during R2 testing,Resolved
+DEF-430,TC-074,REQ-037,Emergency Department,Low,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-431,TC-123,REQ-062,Laboratory,High,R2,Defect in Laboratory during R2 testing,Closed
+DEF-432,TC-099,REQ-050,Inpatient Management,Low,R3,Defect in Inpatient Management during R3 testing,Closed
+DEF-433,TC-159,REQ-080,Radiology,Medium,R3,Defect in Radiology during R3 testing,Closed
+DEF-434,TC-108,REQ-054,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-435,TC-074,REQ-037,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Closed
+DEF-436,TC-156,REQ-078,Radiology,Low,R1,Defect in Radiology during R1 testing,Closed
+DEF-437,TC-075,REQ-038,Emergency Department,Medium,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-438,TC-098,REQ-049,Inpatient Management,High,R3,Defect in Inpatient Management during R3 testing,Open
+DEF-439,TC-210,REQ-105,Medical Records,High,R2,Defect in Medical Records during R2 testing,Resolved
+DEF-440,TC-038,REQ-019,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-441,TC-182,REQ-091,Insurance,Low,R2,Defect in Insurance during R2 testing,Resolved
+DEF-442,TC-101,REQ-051,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-443,TC-118,REQ-059,Pharmacy,Critical,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-444,TC-100,REQ-050,Inpatient Management,Low,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-445,TC-011,REQ-006,Patient Registration,Medium,R2,Defect in Patient Registration during R2 testing,Closed
+DEF-446,TC-206,REQ-103,Medical Records,Low,R4,Defect in Medical Records during R4 testing,Closed
+DEF-447,TC-011,REQ-006,Patient Registration,High,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-448,TC-077,REQ-039,Emergency Department,Critical,R3,Defect in Emergency Department during R3 testing,Open
+DEF-449,TC-034,REQ-017,Appointment Management,Low,R2,Defect in Appointment Management during R2 testing,Resolved
+DEF-450,TC-002,REQ-001,Patient Registration,High,R2,Defect in Patient Registration during R2 testing,Closed
+DEF-451,TC-099,REQ-050,Inpatient Management,Critical,R1,Defect in Inpatient Management during R1 testing,Closed
+DEF-452,TC-119,REQ-060,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-453,TC-057,REQ-029,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-454,TC-090,REQ-045,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-455,TC-153,REQ-077,Radiology,High,R3,Defect in Radiology during R3 testing,Closed
+DEF-456,TC-199,REQ-100,Insurance,High,R3,Defect in Insurance during R3 testing,Closed
+DEF-457,TC-122,REQ-061,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Closed
+DEF-458,TC-106,REQ-053,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-459,TC-175,REQ-088,Billing,High,R1,Defect in Billing during R1 testing,Resolved
+DEF-460,TC-218,REQ-109,Medical Records,Medium,R1,Defect in Medical Records during R1 testing,Resolved
+DEF-461,TC-081,REQ-041,Inpatient Management,Critical,R1,Defect in Inpatient Management during R1 testing,Open
+DEF-462,TC-101,REQ-051,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-463,TC-125,REQ-063,Laboratory,High,R2,Defect in Laboratory during R2 testing,Resolved
+DEF-464,TC-212,REQ-106,Medical Records,High,R1,Defect in Medical Records during R1 testing,Closed
+DEF-465,TC-100,REQ-050,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-466,TC-113,REQ-057,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Closed
+DEF-467,TC-188,REQ-094,Insurance,Low,R3,Defect in Insurance during R3 testing,Closed
+DEF-468,TC-049,REQ-025,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-469,TC-222,REQ-111,User Access Management,High,R2,Defect in User Access Management during R2 testing,Closed
+DEF-470,TC-067,REQ-034,Emergency Department,High,R1,Defect in Emergency Department during R1 testing,Open
+DEF-471,TC-040,REQ-020,Appointment Management,Medium,R3,Defect in Appointment Management during R3 testing,Closed
+DEF-472,TC-204,REQ-102,Medical Records,Low,R2,Defect in Medical Records during R2 testing,Resolved
+DEF-473,TC-090,REQ-045,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-474,TC-001,REQ-001,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-475,TC-001,REQ-001,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Open
+DEF-476,TC-068,REQ-034,Emergency Department,Medium,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-477,TC-060,REQ-030,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-478,TC-185,REQ-093,Insurance,High,R1,Defect in Insurance during R1 testing,Closed
+DEF-479,TC-098,REQ-049,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-480,TC-130,REQ-065,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Closed
+DEF-481,TC-114,REQ-057,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-482,TC-167,REQ-084,Billing,Critical,R1,Defect in Billing during R1 testing,Closed
+DEF-483,TC-035,REQ-018,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Open
+DEF-484,TC-086,REQ-043,Inpatient Management,High,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-485,TC-202,REQ-101,Medical Records,Low,R2,Defect in Medical Records during R2 testing,Resolved
+DEF-486,TC-006,REQ-003,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-487,TC-137,REQ-069,Laboratory,Low,R2,Defect in Laboratory during R2 testing,Closed
+DEF-488,TC-223,REQ-112,User Access Management,Medium,R4,Defect in User Access Management during R4 testing,Closed
+DEF-489,TC-177,REQ-089,Billing,Medium,R3,Defect in Billing during R3 testing,Closed
+DEF-490,TC-093,REQ-047,Inpatient Management,High,R3,Defect in Inpatient Management during R3 testing,Open
+DEF-491,TC-146,REQ-073,Radiology,Low,R2,Defect in Radiology during R2 testing,Closed
+DEF-492,TC-095,REQ-048,Inpatient Management,High,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-493,TC-105,REQ-053,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-494,TC-135,REQ-068,Laboratory,Medium,R3,Defect in Laboratory during R3 testing,Closed
+DEF-495,TC-103,REQ-052,Pharmacy,Low,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-496,TC-067,REQ-034,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Closed
+DEF-497,TC-192,REQ-096,Insurance,Low,R1,Defect in Insurance during R1 testing,Open
+DEF-498,TC-104,REQ-052,Pharmacy,Critical,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-499,TC-045,REQ-023,Doctor Management,Low,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-500,TC-055,REQ-028,Doctor Management,Medium,R3,Defect in Doctor Management during R3 testing,Closed
+DEF-501,TC-005,REQ-003,Patient Registration,Medium,R2,Defect in Patient Registration during R2 testing,Open
+DEF-502,TC-064,REQ-032,Emergency Department,Medium,R1,Defect in Emergency Department during R1 testing,Closed
+DEF-503,TC-123,REQ-062,Laboratory,Low,R3,Defect in Laboratory during R3 testing,Closed
+DEF-504,TC-009,REQ-005,Patient Registration,Medium,R2,Defect in Patient Registration during R2 testing,Open
+DEF-505,TC-061,REQ-031,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-506,TC-016,REQ-008,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-507,TC-220,REQ-110,Medical Records,Medium,R2,Defect in Medical Records during R2 testing,Closed
+DEF-508,TC-010,REQ-005,Patient Registration,Medium,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-509,TC-185,REQ-093,Insurance,Low,R2,Defect in Insurance during R2 testing,Closed
+DEF-510,TC-035,REQ-018,Appointment Management,Medium,R1,Defect in Appointment Management during R1 testing,Resolved
+DEF-511,TC-018,REQ-009,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-512,TC-193,REQ-097,Insurance,High,R2,Defect in Insurance during R2 testing,Closed
+DEF-513,TC-094,REQ-047,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Open
+DEF-514,TC-012,REQ-006,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-515,TC-098,REQ-049,Inpatient Management,High,R1,Defect in Inpatient Management during R1 testing,Open
+DEF-516,TC-008,REQ-004,Patient Registration,Critical,R2,Defect in Patient Registration during R2 testing,Resolved
+DEF-517,TC-148,REQ-074,Radiology,Low,R3,Defect in Radiology during R3 testing,Closed
+DEF-518,TC-106,REQ-053,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Open
+DEF-519,TC-225,REQ-113,User Access Management,Medium,R1,Defect in User Access Management during R1 testing,Closed
+DEF-520,TC-100,REQ-050,Inpatient Management,Low,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-521,TC-078,REQ-039,Emergency Department,High,R2,Defect in Emergency Department during R2 testing,Open
+DEF-522,TC-101,REQ-051,Pharmacy,Medium,R1,Defect in Pharmacy during R1 testing,Resolved
+DEF-523,TC-183,REQ-092,Insurance,High,R3,Defect in Insurance during R3 testing,Resolved
+DEF-524,TC-098,REQ-049,Inpatient Management,High,R4,Defect in Inpatient Management during R4 testing,Resolved
+DEF-525,TC-010,REQ-005,Patient Registration,Critical,R3,Defect in Patient Registration during R3 testing,Closed
+DEF-526,TC-014,REQ-007,Patient Registration,Critical,R2,Defect in Patient Registration during R2 testing,Closed
+DEF-527,TC-090,REQ-045,Inpatient Management,Medium,R4,Defect in Inpatient Management during R4 testing,Closed
+DEF-528,TC-029,REQ-015,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Open
+DEF-529,TC-051,REQ-026,Doctor Management,Low,R1,Defect in Doctor Management during R1 testing,Closed
+DEF-530,TC-067,REQ-034,Emergency Department,Medium,R1,Defect in Emergency Department during R1 testing,Open
+DEF-531,TC-087,REQ-044,Inpatient Management,Medium,R2,Defect in Inpatient Management during R2 testing,Closed
+DEF-532,TC-131,REQ-066,Laboratory,Low,R2,Defect in Laboratory during R2 testing,Closed
+DEF-533,TC-098,REQ-049,Inpatient Management,Critical,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-534,TC-027,REQ-014,Appointment Management,High,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-535,TC-017,REQ-009,Patient Registration,High,R3,Defect in Patient Registration during R3 testing,Resolved
+DEF-536,TC-130,REQ-065,Laboratory,Low,R1,Defect in Laboratory during R1 testing,Resolved
+DEF-537,TC-228,REQ-114,User Access Management,High,R2,Defect in User Access Management during R2 testing,Open
+DEF-538,TC-032,REQ-016,Appointment Management,Low,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-539,TC-102,REQ-051,Pharmacy,High,R2,Defect in Pharmacy during R2 testing,Resolved
+DEF-540,TC-155,REQ-078,Radiology,High,R2,Defect in Radiology during R2 testing,Closed
+DEF-541,TC-199,REQ-100,Insurance,Low,R4,Defect in Insurance during R4 testing,Closed
+DEF-542,TC-150,REQ-075,Radiology,Low,R2,Defect in Radiology during R2 testing,Closed
+DEF-543,TC-229,REQ-115,User Access Management,Medium,R1,Defect in User Access Management during R1 testing,Resolved
+DEF-544,TC-096,REQ-048,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-545,TC-027,REQ-014,Appointment Management,Medium,R2,Defect in Appointment Management during R2 testing,Closed
+DEF-546,TC-021,REQ-011,Appointment Management,Medium,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-547,TC-117,REQ-059,Pharmacy,Low,R3,Defect in Pharmacy during R3 testing,Resolved
+DEF-548,TC-013,REQ-007,Patient Registration,High,R2,Defect in Patient Registration during R2 testing,Resolved
+DEF-549,TC-150,REQ-075,Radiology,Medium,R1,Defect in Radiology during R1 testing,Resolved
+DEF-550,TC-092,REQ-046,Inpatient Management,Medium,R1,Defect in Inpatient Management during R1 testing,Resolved
+DEF-551,TC-103,REQ-052,Pharmacy,Medium,R4,Defect in Pharmacy during R4 testing,Closed
+DEF-552,TC-081,REQ-041,Inpatient Management,Low,R4,Defect in Inpatient Management during R4 testing,Closed
+DEF-553,TC-025,REQ-013,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-554,TC-043,REQ-022,Doctor Management,High,R2,Defect in Doctor Management during R2 testing,Resolved
+DEF-555,TC-059,REQ-030,Doctor Management,Low,R3,Defect in Doctor Management during R3 testing,Resolved
+DEF-556,TC-140,REQ-070,Laboratory,High,R1,Defect in Laboratory during R1 testing,Open
+DEF-557,TC-173,REQ-087,Billing,Medium,R2,Defect in Billing during R2 testing,Resolved
+DEF-558,TC-064,REQ-032,Emergency Department,Low,R2,Defect in Emergency Department during R2 testing,Resolved
+DEF-559,TC-015,REQ-008,Patient Registration,High,R4,Defect in Patient Registration during R4 testing,Resolved
+DEF-560,TC-097,REQ-049,Inpatient Management,High,R2,Defect in Inpatient Management during R2 testing,Resolved
+DEF-561,TC-114,REQ-057,Pharmacy,High,R1,Defect in Pharmacy during R1 testing,Closed
+DEF-562,TC-154,REQ-077,Radiology,Medium,R1,Defect in Radiology during R1 testing,Resolved
+DEF-563,TC-177,REQ-089,Billing,High,R3,Defect in Billing during R3 testing,Open
+DEF-564,TC-174,REQ-087,Billing,Medium,R1,Defect in Billing during R1 testing,Resolved
+DEF-565,TC-129,REQ-065,Laboratory,Medium,R2,Defect in Laboratory during R2 testing,Open
+DEF-566,TC-200,REQ-100,Insurance,Low,R3,Defect in Insurance during R3 testing,Open
+DEF-567,TC-058,REQ-029,Doctor Management,Medium,R1,Defect in Doctor Management during R1 testing,Open
+DEF-568,TC-180,REQ-090,Billing,Medium,R3,Defect in Billing during R3 testing,Closed
+DEF-569,TC-070,REQ-035,Emergency Department,Critical,R4,Defect in Emergency Department during R4 testing,Closed
+DEF-570,TC-040,REQ-020,Appointment Management,Low,R1,Defect in Appointment Management during R1 testing,Closed
+DEF-571,TC-158,REQ-079,Radiology,High,R4,Defect in Radiology during R4 testing,Closed
+DEF-572,TC-164,REQ-082,Billing,Medium,R2,Defect in Billing during R2 testing,Resolved
+DEF-573,TC-059,REQ-030,Doctor Management,Medium,R2,Defect in Doctor Management during R2 testing,Resolved
+DEF-574,TC-143,REQ-072,Radiology,Low,R1,Defect in Radiology during R1 testing,Closed
+DEF-575,TC-172,REQ-086,Billing,Medium,R4,Defect in Billing during R4 testing,Open
+DEF-576,TC-043,REQ-022,Doctor Management,Medium,R4,Defect in Doctor Management during R4 testing,Closed
+DEF-577,TC-139,REQ-070,Laboratory,High,R2,Defect in Laboratory during R2 testing,Resolved
+DEF-578,TC-137,REQ-069,Laboratory,High,R2,Defect in Laboratory during R2 testing,Closed
+DEF-579,TC-012,REQ-006,Patient Registration,Low,R2,Defect in Patient Registration during R2 testing,Closed
+DEF-580,TC-015,REQ-008,Patient Registration,Critical,R1,Defect in Patient Registration during R1 testing,Resolved
+DEF-581,TC-104,REQ-052,Pharmacy,High,R3,Defect in Pharmacy during R3 testing,Open
+DEF-582,TC-007,REQ-004,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-583,TC-199,REQ-100,Insurance,Low,R3,Defect in Insurance during R3 testing,Closed
+DEF-584,TC-076,REQ-038,Emergency Department,Medium,R4,Defect in Emergency Department during R4 testing,Open
+DEF-585,TC-076,REQ-038,Emergency Department,Low,R2,Defect in Emergency Department during R2 testing,Open
+DEF-586,TC-176,REQ-088,Billing,Low,R1,Defect in Billing during R1 testing,Open
+DEF-587,TC-146,REQ-073,Radiology,Low,R3,Defect in Radiology during R3 testing,Resolved
+DEF-588,TC-125,REQ-063,Laboratory,Medium,R1,Defect in Laboratory during R1 testing,Open
+DEF-589,TC-013,REQ-007,Patient Registration,Medium,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-590,TC-014,REQ-007,Patient Registration,High,R1,Defect in Patient Registration during R1 testing,Closed
+DEF-591,TC-240,REQ-120,User Access Management,Low,R2,Defect in User Access Management during R2 testing,Resolved
+DEF-592,TC-013,REQ-007,Patient Registration,High,R3,Defect in Patient Registration during R3 testing,Open
+DEF-593,TC-077,REQ-039,Emergency Department,Critical,R2,Defect in Emergency Department during R2 testing,Resolved
+DEF-594,TC-199,REQ-100,Insurance,Low,R1,Defect in Insurance during R1 testing,Closed
+DEF-595,TC-231,REQ-116,User Access Management,High,R1,Defect in User Access Management during R1 testing,Closed
+DEF-596,TC-075,REQ-038,Emergency Department,High,R3,Defect in Emergency Department during R3 testing,Resolved
+DEF-597,TC-109,REQ-055,Pharmacy,Medium,R3,Defect in Pharmacy during R3 testing,Open
+DEF-598,TC-170,REQ-085,Billing,High,R2,Defect in Billing during R2 testing,Open
+DEF-599,TC-072,REQ-036,Emergency Department,Medium,R4,Defect in Emergency Department during R4 testing,Closed
+DEF-600,TC-190,REQ-095,Insurance,High,R2,Defect in Insurance during R2 testing,Closed

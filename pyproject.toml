@@ -1,0 +1,20 @@
+[project]
+name = "risksense-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "plotly>=6.9.0",
+    "requests>=2.34.2",
+    "streamlit>=1.62.0",
+]
+
+[project.scripts]
+risksense-ai = "risksense_ai:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

@@ -1,0 +1,241 @@
+test_id,req_id,module,test_name,test_type,priority,complexity,estimated_duration_min
+TC-001,REQ-001,Patient Registration,Patient Registration - Test 1 (A),Regression,High,High,45
+TC-002,REQ-001,Patient Registration,Patient Registration - Test 2 (B),Security,Medium,Low,5
+TC-003,REQ-002,Patient Registration,Patient Registration - Test 3 (A),Security,High,Low,45
+TC-004,REQ-002,Patient Registration,Patient Registration - Test 4 (B),Functional,High,Medium,45
+TC-005,REQ-003,Patient Registration,Patient Registration - Test 5 (A),Functional,High,Low,20
+TC-006,REQ-003,Patient Registration,Patient Registration - Test 6 (B),Integration,Low,Medium,20
+TC-007,REQ-004,Patient Registration,Patient Registration - Test 7 (A),Regression,Low,Medium,5
+TC-008,REQ-004,Patient Registration,Patient Registration - Test 8 (B),Regression,Medium,Low,15
+TC-009,REQ-005,Patient Registration,Patient Registration - Test 9 (A),Functional,Low,Medium,5
+TC-010,REQ-005,Patient Registration,Patient Registration - Test 10 (B),Security,Medium,High,5
+TC-011,REQ-006,Patient Registration,Patient Registration - Test 11 (A),Integration,Low,Medium,60
+TC-012,REQ-006,Patient Registration,Patient Registration - Test 12 (B),Integration,High,Low,20
+TC-013,REQ-007,Patient Registration,Patient Registration - Test 13 (A),Performance,High,Low,5
+TC-014,REQ-007,Patient Registration,Patient Registration - Test 14 (B),Functional,Low,High,60
+TC-015,REQ-008,Patient Registration,Patient Registration - Test 15 (A),Regression,Low,Medium,30
+TC-016,REQ-008,Patient Registration,Patient Registration - Test 16 (B),Regression,Critical,High,5
+TC-017,REQ-009,Patient Registration,Patient Registration - Test 17 (A),Functional,Low,High,5
+TC-018,REQ-009,Patient Registration,Patient Registration - Test 18 (B),Security,Critical,High,60
+TC-019,REQ-010,Patient Registration,Patient Registration - Test 19 (A),Functional,Medium,Low,60
+TC-020,REQ-010,Patient Registration,Patient Registration - Test 20 (B),Regression,Critical,Low,10
+TC-021,REQ-011,Appointment Management,Appointment Management - Test 21 (A),Regression,Low,Medium,45
+TC-022,REQ-011,Appointment Management,Appointment Management - Test 22 (B),Functional,High,High,45
+TC-023,REQ-012,Appointment Management,Appointment Management - Test 23 (A),Integration,Low,Medium,5
+TC-024,REQ-012,Appointment Management,Appointment Management - Test 24 (B),Functional,Low,High,45
+TC-025,REQ-013,Appointment Management,Appointment Management - Test 25 (A),Functional,Low,Low,45
+TC-026,REQ-013,Appointment Management,Appointment Management - Test 26 (B),Functional,Medium,High,30
+TC-027,REQ-014,Appointment Management,Appointment Management - Test 27 (A),Regression,Low,High,15
+TC-028,REQ-014,Appointment Management,Appointment Management - Test 28 (B),Functional,Low,Medium,5
+TC-029,REQ-015,Appointment Management,Appointment Management - Test 29 (A),Performance,Medium,Medium,20
+TC-030,REQ-015,Appointment Management,Appointment Management - Test 30 (B),Regression,Medium,Medium,10
+TC-031,REQ-016,Appointment Management,Appointment Management - Test 31 (A),Security,Medium,Low,10
+TC-032,REQ-016,Appointment Management,Appointment Management - Test 32 (B),Integration,Medium,Medium,10
+TC-033,REQ-017,Appointment Management,Appointment Management - Test 33 (A),Functional,High,Medium,5
+TC-034,REQ-017,Appointment Management,Appointment Management - Test 34 (B),Integration,Medium,Medium,15
+TC-035,REQ-018,Appointment Management,Appointment Management - Test 35 (A),Integration,Medium,High,60
+TC-036,REQ-018,Appointment Management,Appointment Management - Test 36 (B),Functional,Critical,Medium,30
+TC-037,REQ-019,Appointment Management,Appointment Management - Test 37 (A),Integration,High,Medium,15
+TC-038,REQ-019,Appointment Management,Appointment Management - Test 38 (B),Performance,Low,Medium,20
+TC-039,REQ-020,Appointment Management,Appointment Management - Test 39 (A),Functional,Low,Medium,10
+TC-040,REQ-020,Appointment Management,Appointment Management - Test 40 (B),Security,High,Medium,20
+TC-041,REQ-021,Doctor Management,Doctor Management - Test 41 (A),Performance,Low,Low,45
+TC-042,REQ-021,Doctor Management,Doctor Management - Test 42 (B),Integration,Low,Medium,20
+TC-043,REQ-022,Doctor Management,Doctor Management - Test 43 (A),Regression,Medium,High,5
+TC-044,REQ-022,Doctor Management,Doctor Management - Test 44 (B),Regression,Critical,Medium,5
+TC-045,REQ-023,Doctor Management,Doctor Management - Test 45 (A),Functional,High,Medium,5
+TC-046,REQ-023,Doctor Management,Doctor Management - Test 46 (B),Functional,Low,Low,45
+TC-047,REQ-024,Doctor Management,Doctor Management - Test 47 (A),Integration,High,Medium,30
+TC-048,REQ-024,Doctor Management,Doctor Management - Test 48 (B),Integration,Low,Low,5
+TC-049,REQ-025,Doctor Management,Doctor Management - Test 49 (A),Performance,High,Medium,10
+TC-050,REQ-025,Doctor Management,Doctor Management - Test 50 (B),Integration,Medium,High,30
+TC-051,REQ-026,Doctor Management,Doctor Management - Test 51 (A),Functional,Medium,High,30
+TC-052,REQ-026,Doctor Management,Doctor Management - Test 52 (B),Regression,Low,Medium,10
+TC-053,REQ-027,Doctor Management,Doctor Management - Test 53 (A),Regression,Low,High,20
+TC-054,REQ-027,Doctor Management,Doctor Management - Test 54 (B),Integration,Critical,Low,20
+TC-055,REQ-028,Doctor Management,Doctor Management - Test 55 (A),Integration,Medium,High,15
+TC-056,REQ-028,Doctor Management,Doctor Management - Test 56 (B),Regression,Critical,High,10
+TC-057,REQ-029,Doctor Management,Doctor Management - Test 57 (A),Functional,Medium,Medium,45
+TC-058,REQ-029,Doctor Management,Doctor Management - Test 58 (B),Functional,Critical,Low,20
+TC-059,REQ-030,Doctor Management,Doctor Management - Test 59 (A),Security,Medium,Medium,45
+TC-060,REQ-030,Doctor Management,Doctor Management - Test 60 (B),Functional,High,Medium,45
+TC-061,REQ-031,Emergency Department,Emergency Department - Test 61 (A),Functional,Low,Medium,20
+TC-062,REQ-031,Emergency Department,Emergency Department - Test 62 (B),Regression,Medium,Low,45
+TC-063,REQ-032,Emergency Department,Emergency Department - Test 63 (A),Security,Low,Medium,30
+TC-064,REQ-032,Emergency Department,Emergency Department - Test 64 (B),Integration,High,Medium,20
+TC-065,REQ-033,Emergency Department,Emergency Department - Test 65 (A),Regression,Medium,High,5
+TC-066,REQ-033,Emergency Department,Emergency Department - Test 66 (B),Functional,Critical,Low,15
+TC-067,REQ-034,Emergency Department,Emergency Department - Test 67 (A),Integration,Medium,Medium,20
+TC-068,REQ-034,Emergency Department,Emergency Department - Test 68 (B),Functional,Low,Medium,5
+TC-069,REQ-035,Emergency Department,Emergency Department - Test 69 (A),Regression,Medium,Medium,60
+TC-070,REQ-035,Emergency Department,Emergency Department - Test 70 (B),Regression,Low,Low,45
+TC-071,REQ-036,Emergency Department,Emergency Department - Test 71 (A),Performance,Low,High,20
+TC-072,REQ-036,Emergency Department,Emergency Department - Test 72 (B),Integration,Medium,Medium,45
+TC-073,REQ-037,Emergency Department,Emergency Department - Test 73 (A),Regression,Low,Medium,45
+TC-074,REQ-037,Emergency Department,Emergency Department - Test 74 (B),Performance,Medium,High,45
+TC-075,REQ-038,Emergency Department,Emergency Department - Test 75 (A),Functional,Low,Medium,60
+TC-076,REQ-038,Emergency Department,Emergency Department - Test 76 (B),Integration,Low,Medium,60
+TC-077,REQ-039,Emergency Department,Emergency Department - Test 77 (A),Performance,Critical,Medium,20
+TC-078,REQ-039,Emergency Department,Emergency Department - Test 78 (B),Regression,Low,High,45
+TC-079,REQ-040,Emergency Department,Emergency Department - Test 79 (A),Integration,Critical,High,60
+TC-080,REQ-040,Emergency Department,Emergency Department - Test 80 (B),Performance,Low,Low,30
+TC-081,REQ-041,Inpatient Management,Inpatient Management - Test 81 (A),Performance,Low,High,60
+TC-082,REQ-041,Inpatient Management,Inpatient Management - Test 82 (B),Security,Low,High,10
+TC-083,REQ-042,Inpatient Management,Inpatient Management - Test 83 (A),Integration,Medium,High,45
+TC-084,REQ-042,Inpatient Management,Inpatient Management - Test 84 (B),Regression,Medium,High,15
+TC-085,REQ-043,Inpatient Management,Inpatient Management - Test 85 (A),Regression,High,Low,60
+TC-086,REQ-043,Inpatient Management,Inpatient Management - Test 86 (B),Security,High,Medium,15
+TC-087,REQ-044,Inpatient Management,Inpatient Management - Test 87 (A),Regression,High,High,30
+TC-088,REQ-044,Inpatient Management,Inpatient Management - Test 88 (B),Performance,Low,Low,15
+TC-089,REQ-045,Inpatient Management,Inpatient Management - Test 89 (A),Functional,High,High,5
+TC-090,REQ-045,Inpatient Management,Inpatient Management - Test 90 (B),Regression,Medium,Medium,30
+TC-091,REQ-046,Inpatient Management,Inpatient Management - Test 91 (A),Integration,Low,Medium,15
+TC-092,REQ-046,Inpatient Management,Inpatient Management - Test 92 (B),Integration,Critical,High,5
+TC-093,REQ-047,Inpatient Management,Inpatient Management - Test 93 (A),Functional,High,Medium,60
+TC-094,REQ-047,Inpatient Management,Inpatient Management - Test 94 (B),Integration,Low,Low,15
+TC-095,REQ-048,Inpatient Management,Inpatient Management - Test 95 (A),Integration,Medium,Low,15
+TC-096,REQ-048,Inpatient Management,Inpatient Management - Test 96 (B),Functional,Low,Medium,10
+TC-097,REQ-049,Inpatient Management,Inpatient Management - Test 97 (A),Performance,Medium,Medium,5
+TC-098,REQ-049,Inpatient Management,Inpatient Management - Test 98 (B),Functional,High,High,15
+TC-099,REQ-050,Inpatient Management,Inpatient Management - Test 99 (A),Regression,High,Medium,10
+TC-100,REQ-050,Inpatient Management,Inpatient Management - Test 100 (B),Performance,Medium,Medium,45
+TC-101,REQ-051,Pharmacy,Pharmacy - Test 101 (A),Regression,Medium,Low,30
+TC-102,REQ-051,Pharmacy,Pharmacy - Test 102 (B),Performance,High,Medium,60
+TC-103,REQ-052,Pharmacy,Pharmacy - Test 103 (A),Functional,Medium,Low,45
+TC-104,REQ-052,Pharmacy,Pharmacy - Test 104 (B),Integration,Critical,Low,20
+TC-105,REQ-053,Pharmacy,Pharmacy - Test 105 (A),Functional,Critical,High,30
+TC-106,REQ-053,Pharmacy,Pharmacy - Test 106 (B),Integration,Medium,Medium,5
+TC-107,REQ-054,Pharmacy,Pharmacy - Test 107 (A),Functional,Critical,Medium,45
+TC-108,REQ-054,Pharmacy,Pharmacy - Test 108 (B),Security,Critical,Medium,5
+TC-109,REQ-055,Pharmacy,Pharmacy - Test 109 (A),Integration,High,High,15
+TC-110,REQ-055,Pharmacy,Pharmacy - Test 110 (B),Regression,Critical,Medium,5
+TC-111,REQ-056,Pharmacy,Pharmacy - Test 111 (A),Integration,Medium,Medium,20
+TC-112,REQ-056,Pharmacy,Pharmacy - Test 112 (B),Regression,High,Medium,45
+TC-113,REQ-057,Pharmacy,Pharmacy - Test 113 (A),Functional,Medium,Medium,15
+TC-114,REQ-057,Pharmacy,Pharmacy - Test 114 (B),Functional,Low,High,10
+TC-115,REQ-058,Pharmacy,Pharmacy - Test 115 (A),Integration,Medium,High,30
+TC-116,REQ-058,Pharmacy,Pharmacy - Test 116 (B),Functional,Low,High,5
+TC-117,REQ-059,Pharmacy,Pharmacy - Test 117 (A),Functional,Critical,High,30
+TC-118,REQ-059,Pharmacy,Pharmacy - Test 118 (B),Functional,Medium,Medium,30
+TC-119,REQ-060,Pharmacy,Pharmacy - Test 119 (A),Regression,Critical,Low,20
+TC-120,REQ-060,Pharmacy,Pharmacy - Test 120 (B),Functional,Low,Low,30
+TC-121,REQ-061,Laboratory,Laboratory - Test 121 (A),Functional,Low,Medium,60
+TC-122,REQ-061,Laboratory,Laboratory - Test 122 (B),Regression,Medium,Low,30
+TC-123,REQ-062,Laboratory,Laboratory - Test 123 (A),Functional,Low,Medium,15
+TC-124,REQ-062,Laboratory,Laboratory - Test 124 (B),Integration,Medium,High,10
+TC-125,REQ-063,Laboratory,Laboratory - Test 125 (A),Functional,High,High,30
+TC-126,REQ-063,Laboratory,Laboratory - Test 126 (B),Performance,Medium,Medium,10
+TC-127,REQ-064,Laboratory,Laboratory - Test 127 (A),Functional,Low,Medium,10
+TC-128,REQ-064,Laboratory,Laboratory - Test 128 (B),Functional,Low,High,5
+TC-129,REQ-065,Laboratory,Laboratory - Test 129 (A),Integration,Low,High,60
+TC-130,REQ-065,Laboratory,Laboratory - Test 130 (B),Regression,Medium,High,5
+TC-131,REQ-066,Laboratory,Laboratory - Test 131 (A),Regression,Low,Medium,10
+TC-132,REQ-066,Laboratory,Laboratory - Test 132 (B),Functional,Critical,Medium,30
+TC-133,REQ-067,Laboratory,Laboratory - Test 133 (A),Functional,Medium,Low,10
+TC-134,REQ-067,Laboratory,Laboratory - Test 134 (B),Security,High,Low,5
+TC-135,REQ-068,Laboratory,Laboratory - Test 135 (A),Functional,Medium,Medium,20
+TC-136,REQ-068,Laboratory,Laboratory - Test 136 (B),Security,Low,Medium,15
+TC-137,REQ-069,Laboratory,Laboratory - Test 137 (A),Performance,Low,Medium,60
+TC-138,REQ-069,Laboratory,Laboratory - Test 138 (B),Functional,Low,Medium,20
+TC-139,REQ-070,Laboratory,Laboratory - Test 139 (A),Integration,Critical,Low,30
+TC-140,REQ-070,Laboratory,Laboratory - Test 140 (B),Security,Critical,Low,15
+TC-141,REQ-071,Radiology,Radiology - Test 141 (A),Functional,High,Low,60
+TC-142,REQ-071,Radiology,Radiology - Test 142 (B),Functional,Medium,Medium,60
+TC-143,REQ-072,Radiology,Radiology - Test 143 (A),Regression,Medium,Medium,5
+TC-144,REQ-072,Radiology,Radiology - Test 144 (B),Performance,Low,Medium,45
+TC-145,REQ-073,Radiology,Radiology - Test 145 (A),Functional,Low,Low,60
+TC-146,REQ-073,Radiology,Radiology - Test 146 (B),Functional,High,Medium,45
+TC-147,REQ-074,Radiology,Radiology - Test 147 (A),Functional,Low,Medium,45
+TC-148,REQ-074,Radiology,Radiology - Test 148 (B),Regression,Medium,Medium,45
+TC-149,REQ-075,Radiology,Radiology - Test 149 (A),Security,Medium,Medium,5
+TC-150,REQ-075,Radiology,Radiology - Test 150 (B),Regression,Medium,High,30
+TC-151,REQ-076,Radiology,Radiology - Test 151 (A),Integration,High,High,15
+TC-152,REQ-076,Radiology,Radiology - Test 152 (B),Security,High,Low,10
+TC-153,REQ-077,Radiology,Radiology - Test 153 (A),Functional,High,Low,30
+TC-154,REQ-077,Radiology,Radiology - Test 154 (B),Functional,High,High,60
+TC-155,REQ-078,Radiology,Radiology - Test 155 (A),Integration,Medium,Medium,5
+TC-156,REQ-078,Radiology,Radiology - Test 156 (B),Integration,Low,Medium,5
+TC-157,REQ-079,Radiology,Radiology - Test 157 (A),Integration,High,Medium,5
+TC-158,REQ-079,Radiology,Radiology - Test 158 (B),Performance,Low,Low,15
+TC-159,REQ-080,Radiology,Radiology - Test 159 (A),Regression,Low,Low,30
+TC-160,REQ-080,Radiology,Radiology - Test 160 (B),Functional,Critical,Medium,5
+TC-161,REQ-081,Billing,Billing - Test 161 (A),Functional,Low,Medium,15
+TC-162,REQ-081,Billing,Billing - Test 162 (B),Functional,High,High,20
+TC-163,REQ-082,Billing,Billing - Test 163 (A),Regression,Medium,Medium,45
+TC-164,REQ-082,Billing,Billing - Test 164 (B),Integration,Medium,Low,15
+TC-165,REQ-083,Billing,Billing - Test 165 (A),Performance,High,Low,15
+TC-166,REQ-083,Billing,Billing - Test 166 (B),Regression,High,Medium,5
+TC-167,REQ-084,Billing,Billing - Test 167 (A),Regression,High,Medium,5
+TC-168,REQ-084,Billing,Billing - Test 168 (B),Functional,Low,Low,20
+TC-169,REQ-085,Billing,Billing - Test 169 (A),Regression,High,Medium,45
+TC-170,REQ-085,Billing,Billing - Test 170 (B),Functional,High,Low,10
+TC-171,REQ-086,Billing,Billing - Test 171 (A),Regression,Low,Medium,10
+TC-172,REQ-086,Billing,Billing - Test 172 (B),Integration,Medium,Medium,20
+TC-173,REQ-087,Billing,Billing - Test 173 (A),Functional,High,Low,5
+TC-174,REQ-087,Billing,Billing - Test 174 (B),Regression,High,Medium,20
+TC-175,REQ-088,Billing,Billing - Test 175 (A),Functional,High,High,15
+TC-176,REQ-088,Billing,Billing - Test 176 (B),Regression,High,Medium,5
+TC-177,REQ-089,Billing,Billing - Test 177 (A),Integration,High,Medium,30
+TC-178,REQ-089,Billing,Billing - Test 178 (B),Regression,Low,Medium,10
+TC-179,REQ-090,Billing,Billing - Test 179 (A),Integration,Critical,Low,30
+TC-180,REQ-090,Billing,Billing - Test 180 (B),Functional,High,Low,15
+TC-181,REQ-091,Insurance,Insurance - Test 181 (A),Security,Low,Low,45
+TC-182,REQ-091,Insurance,Insurance - Test 182 (B),Regression,Medium,Medium,10
+TC-183,REQ-092,Insurance,Insurance - Test 183 (A),Functional,Low,Medium,60
+TC-184,REQ-092,Insurance,Insurance - Test 184 (B),Integration,High,High,5
+TC-185,REQ-093,Insurance,Insurance - Test 185 (A),Security,Medium,Low,30
+TC-186,REQ-093,Insurance,Insurance - Test 186 (B),Performance,Medium,Medium,15
+TC-187,REQ-094,Insurance,Insurance - Test 187 (A),Security,Medium,Low,20
+TC-188,REQ-094,Insurance,Insurance - Test 188 (B),Functional,Medium,Low,15
+TC-189,REQ-095,Insurance,Insurance - Test 189 (A),Functional,Medium,Low,45
+TC-190,REQ-095,Insurance,Insurance - Test 190 (B),Regression,Medium,Medium,45
+TC-191,REQ-096,Insurance,Insurance - Test 191 (A),Functional,Low,Medium,45
+TC-192,REQ-096,Insurance,Insurance - Test 192 (B),Integration,Medium,Medium,45
+TC-193,REQ-097,Insurance,Insurance - Test 193 (A),Integration,Low,Medium,10
+TC-194,REQ-097,Insurance,Insurance - Test 194 (B),Functional,High,Medium,30
+TC-195,REQ-098,Insurance,Insurance - Test 195 (A),Functional,High,Medium,5
+TC-196,REQ-098,Insurance,Insurance - Test 196 (B),Security,Critical,Medium,30
+TC-197,REQ-099,Insurance,Insurance - Test 197 (A),Functional,Low,Low,45
+TC-198,REQ-099,Insurance,Insurance - Test 198 (B),Security,High,Medium,10
+TC-199,REQ-100,Insurance,Insurance - Test 199 (A),Functional,Medium,Medium,60
+TC-200,REQ-100,Insurance,Insurance - Test 200 (B),Functional,Medium,Medium,60
+TC-201,REQ-101,Medical Records,Medical Records - Test 201 (A),Regression,Medium,Medium,15
+TC-202,REQ-101,Medical Records,Medical Records - Test 202 (B),Functional,Low,Medium,30
+TC-203,REQ-102,Medical Records,Medical Records - Test 203 (A),Security,Critical,Medium,30
+TC-204,REQ-102,Medical Records,Medical Records - Test 204 (B),Security,Medium,Low,60
+TC-205,REQ-103,Medical Records,Medical Records - Test 205 (A),Regression,Medium,Medium,30
+TC-206,REQ-103,Medical Records,Medical Records - Test 206 (B),Security,Medium,High,20
+TC-207,REQ-104,Medical Records,Medical Records - Test 207 (A),Regression,Low,Low,60
+TC-208,REQ-104,Medical Records,Medical Records - Test 208 (B),Performance,Low,Low,60
+TC-209,REQ-105,Medical Records,Medical Records - Test 209 (A),Integration,Medium,High,30
+TC-210,REQ-105,Medical Records,Medical Records - Test 210 (B),Functional,High,Medium,30
+TC-211,REQ-106,Medical Records,Medical Records - Test 211 (A),Integration,High,Low,15
+TC-212,REQ-106,Medical Records,Medical Records - Test 212 (B),Functional,Critical,Medium,60
+TC-213,REQ-107,Medical Records,Medical Records - Test 213 (A),Performance,Low,High,30
+TC-214,REQ-107,Medical Records,Medical Records - Test 214 (B),Functional,Medium,Low,45
+TC-215,REQ-108,Medical Records,Medical Records - Test 215 (A),Functional,High,Medium,15
+TC-216,REQ-108,Medical Records,Medical Records - Test 216 (B),Regression,Low,High,30
+TC-217,REQ-109,Medical Records,Medical Records - Test 217 (A),Functional,Low,Medium,20
+TC-218,REQ-109,Medical Records,Medical Records - Test 218 (B),Security,High,Low,60
+TC-219,REQ-110,Medical Records,Medical Records - Test 219 (A),Functional,Medium,Medium,10
+TC-220,REQ-110,Medical Records,Medical Records - Test 220 (B),Security,Medium,Low,20
+TC-221,REQ-111,User Access Management,User Access Management - Test 221 (A),Regression,Medium,High,30
+TC-222,REQ-111,User Access Management,User Access Management - Test 222 (B),Regression,High,Medium,45
+TC-223,REQ-112,User Access Management,User Access Management - Test 223 (A),Integration,Critical,Medium,45
+TC-224,REQ-112,User Access Management,User Access Management - Test 224 (B),Performance,Low,Low,15
+TC-225,REQ-113,User Access Management,User Access Management - Test 225 (A),Integration,Medium,Medium,45
+TC-226,REQ-113,User Access Management,User Access Management - Test 226 (B),Integration,Low,High,45
+TC-227,REQ-114,User Access Management,User Access Management - Test 227 (A),Regression,High,High,15
+TC-228,REQ-114,User Access Management,User Access Management - Test 228 (B),Functional,Critical,High,20
+TC-229,REQ-115,User Access Management,User Access Management - Test 229 (A),Integration,Low,High,15
+TC-230,REQ-115,User Access Management,User Access Management - Test 230 (B),Regression,High,High,30
+TC-231,REQ-116,User Access Management,User Access Management - Test 231 (A),Regression,Low,Medium,20
+TC-232,REQ-116,User Access Management,User Access Management - Test 232 (B),Functional,Medium,Medium,45
+TC-233,REQ-117,User Access Management,User Access Management - Test 233 (A),Functional,Medium,Medium,20
+TC-234,REQ-117,User Access Management,User Access Management - Test 234 (B),Integration,High,High,45
+TC-235,REQ-118,User Access Management,User Access Management - Test 235 (A),Functional,Low,High,45
+TC-236,REQ-118,User Access Management,User Access Management - Test 236 (B),Functional,High,Low,5
+TC-237,REQ-119,User Access Management,User Access Management - Test 237 (A),Integration,Low,High,60
+TC-238,REQ-119,User Access Management,User Access Management - Test 238 (B),Integration,Medium,Low,30
+TC-239,REQ-120,User Access Management,User Access Management - Test 239 (A),Regression,Low,High,30
+TC-240,REQ-120,User Access Management,User Access Management - Test 240 (B),Security,High,Medium,10

@@ -1,0 +1,251 @@
+change_id,req_id,module,change_type,release,description,impact_area
+CHG-001,REQ-092,Insurance,Configuration,R5,Configuration update for Insurance,Data Flow
+CHG-002,REQ-046,Inpatient Management,Refactoring,R5,Code refactoring in Inpatient Management module,UI
+CHG-003,REQ-108,Medical Records,New Feature,R5,New functionality added to Medical Records,Data Flow
+CHG-004,REQ-003,Patient Registration,Configuration,R5,Configuration update for Patient Registration,Integration
+CHG-005,REQ-017,Appointment Management,Refactoring,R5,Code refactoring in Appointment Management module,Integration
+CHG-006,REQ-030,Doctor Management,Enhancement,R5,Performance improvement in Doctor Management,Integration
+CHG-007,REQ-007,Patient Registration,Enhancement,R5,Performance improvement in Patient Registration,Security
+CHG-008,REQ-093,Insurance,Configuration,R5,Configuration update for Insurance,UI
+CHG-009,REQ-080,Radiology,New Feature,R5,New functionality added to Radiology,Integration
+CHG-010,REQ-064,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,Security
+CHG-011,REQ-038,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Security
+CHG-012,REQ-066,Laboratory,Enhancement,R5,Performance improvement in Laboratory,UI
+CHG-013,REQ-047,Inpatient Management,Configuration,R5,Configuration update for Inpatient Management,Integration
+CHG-014,REQ-057,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Core Logic
+CHG-015,REQ-006,Patient Registration,Enhancement,R5,Performance improvement in Patient Registration,Core Logic
+CHG-016,REQ-083,Billing,Configuration,R5,Configuration update for Billing,Core Logic
+CHG-017,REQ-086,Billing,Enhancement,R5,Performance improvement in Billing,Core Logic
+CHG-018,REQ-072,Radiology,Refactoring,R5,Code refactoring in Radiology module,Security
+CHG-019,REQ-031,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,UI
+CHG-020,REQ-065,Laboratory,Enhancement,R5,Performance improvement in Laboratory,Data Flow
+CHG-021,REQ-008,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,UI
+CHG-022,REQ-039,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Data Flow
+CHG-023,REQ-021,Doctor Management,Bug Fix,R5,Critical bug fix in Doctor Management workflow,UI
+CHG-024,REQ-074,Radiology,Enhancement,R5,Performance improvement in Radiology,Security
+CHG-025,REQ-089,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Data Flow
+CHG-026,REQ-081,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Data Flow
+CHG-027,REQ-014,Appointment Management,Enhancement,R5,Performance improvement in Appointment Management,Integration
+CHG-028,REQ-013,Appointment Management,Enhancement,R5,Performance improvement in Appointment Management,Data Flow
+CHG-029,REQ-038,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Integration
+CHG-030,REQ-045,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Security
+CHG-031,REQ-032,Emergency Department,Configuration,R5,Configuration update for Emergency Department,Data Flow
+CHG-032,REQ-102,Medical Records,New Feature,R5,New functionality added to Medical Records,Integration
+CHG-033,REQ-054,Pharmacy,Configuration,R5,Configuration update for Pharmacy,Security
+CHG-034,REQ-012,Appointment Management,Enhancement,R5,Performance improvement in Appointment Management,Core Logic
+CHG-035,REQ-063,Laboratory,Configuration,R5,Configuration update for Laboratory,Integration
+CHG-036,REQ-081,Billing,New Feature,R5,New functionality added to Billing,Integration
+CHG-037,REQ-119,User Access Management,Enhancement,R5,Performance improvement in User Access Management,Integration
+CHG-038,REQ-090,Billing,New Feature,R5,New functionality added to Billing,Integration
+CHG-039,REQ-001,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Integration
+CHG-040,REQ-047,Inpatient Management,Enhancement,R5,Performance improvement in Inpatient Management,Integration
+CHG-041,REQ-005,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,UI
+CHG-042,REQ-040,Emergency Department,Bug Fix,R5,Critical bug fix in Emergency Department workflow,Integration
+CHG-043,REQ-112,User Access Management,Bug Fix,R5,Critical bug fix in User Access Management workflow,UI
+CHG-044,REQ-007,Patient Registration,New Feature,R5,New functionality added to Patient Registration,Data Flow
+CHG-045,REQ-068,Laboratory,Enhancement,R5,Performance improvement in Laboratory,Core Logic
+CHG-046,REQ-113,User Access Management,Enhancement,R5,Performance improvement in User Access Management,Integration
+CHG-047,REQ-020,Appointment Management,Bug Fix,R5,Critical bug fix in Appointment Management workflow,Integration
+CHG-048,REQ-074,Radiology,Enhancement,R5,Performance improvement in Radiology,Data Flow
+CHG-049,REQ-005,Patient Registration,New Feature,R5,New functionality added to Patient Registration,Data Flow
+CHG-050,REQ-081,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Security
+CHG-051,REQ-032,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Security
+CHG-052,REQ-040,Emergency Department,Refactoring,R5,Code refactoring in Emergency Department module,Data Flow
+CHG-053,REQ-057,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Integration
+CHG-054,REQ-067,Laboratory,New Feature,R5,New functionality added to Laboratory,Security
+CHG-055,REQ-040,Emergency Department,Bug Fix,R5,Critical bug fix in Emergency Department workflow,Security
+CHG-056,REQ-065,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,Data Flow
+CHG-057,REQ-004,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Data Flow
+CHG-058,REQ-082,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,UI
+CHG-059,REQ-070,Laboratory,Configuration,R5,Configuration update for Laboratory,Security
+CHG-060,REQ-030,Doctor Management,Enhancement,R5,Performance improvement in Doctor Management,UI
+CHG-061,REQ-001,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Security
+CHG-062,REQ-087,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Integration
+CHG-063,REQ-028,Doctor Management,New Feature,R5,New functionality added to Doctor Management,Integration
+CHG-064,REQ-051,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Security
+CHG-065,REQ-003,Patient Registration,Enhancement,R5,Performance improvement in Patient Registration,Core Logic
+CHG-066,REQ-009,Patient Registration,Enhancement,R5,Performance improvement in Patient Registration,Data Flow
+CHG-067,REQ-047,Inpatient Management,New Feature,R5,New functionality added to Inpatient Management,Security
+CHG-068,REQ-050,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Data Flow
+CHG-069,REQ-089,Billing,Enhancement,R5,Performance improvement in Billing,Core Logic
+CHG-070,REQ-019,Appointment Management,Configuration,R5,Configuration update for Appointment Management,Data Flow
+CHG-071,REQ-084,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Data Flow
+CHG-072,REQ-041,Inpatient Management,Configuration,R5,Configuration update for Inpatient Management,UI
+CHG-073,REQ-086,Billing,New Feature,R5,New functionality added to Billing,UI
+CHG-074,REQ-052,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,UI
+CHG-075,REQ-107,Medical Records,Enhancement,R5,Performance improvement in Medical Records,Core Logic
+CHG-076,REQ-055,Pharmacy,Refactoring,R5,Code refactoring in Pharmacy module,Security
+CHG-077,REQ-087,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Data Flow
+CHG-078,REQ-018,Appointment Management,Enhancement,R5,Performance improvement in Appointment Management,UI
+CHG-079,REQ-099,Insurance,New Feature,R5,New functionality added to Insurance,Data Flow
+CHG-080,REQ-009,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Security
+CHG-081,REQ-047,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Integration
+CHG-082,REQ-067,Laboratory,Enhancement,R5,Performance improvement in Laboratory,UI
+CHG-083,REQ-066,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,Core Logic
+CHG-084,REQ-051,Pharmacy,Enhancement,R5,Performance improvement in Pharmacy,UI
+CHG-085,REQ-013,Appointment Management,Refactoring,R5,Code refactoring in Appointment Management module,Core Logic
+CHG-086,REQ-059,Pharmacy,Configuration,R5,Configuration update for Pharmacy,Core Logic
+CHG-087,REQ-060,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Integration
+CHG-088,REQ-097,Insurance,Enhancement,R5,Performance improvement in Insurance,Security
+CHG-089,REQ-091,Insurance,Configuration,R5,Configuration update for Insurance,Core Logic
+CHG-090,REQ-115,User Access Management,Enhancement,R5,Performance improvement in User Access Management,Data Flow
+CHG-091,REQ-109,Medical Records,New Feature,R5,New functionality added to Medical Records,UI
+CHG-092,REQ-038,Emergency Department,Configuration,R5,Configuration update for Emergency Department,Security
+CHG-093,REQ-089,Billing,Configuration,R5,Configuration update for Billing,UI
+CHG-094,REQ-038,Emergency Department,Bug Fix,R5,Critical bug fix in Emergency Department workflow,Security
+CHG-095,REQ-082,Billing,Enhancement,R5,Performance improvement in Billing,Core Logic
+CHG-096,REQ-037,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Security
+CHG-097,REQ-115,User Access Management,Configuration,R5,Configuration update for User Access Management,Core Logic
+CHG-098,REQ-086,Billing,New Feature,R5,New functionality added to Billing,UI
+CHG-099,REQ-062,Laboratory,Enhancement,R5,Performance improvement in Laboratory,Integration
+CHG-100,REQ-021,Doctor Management,Enhancement,R5,Performance improvement in Doctor Management,Security
+CHG-101,REQ-041,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Integration
+CHG-102,REQ-040,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Integration
+CHG-103,REQ-011,Appointment Management,Configuration,R5,Configuration update for Appointment Management,UI
+CHG-104,REQ-025,Doctor Management,Refactoring,R5,Code refactoring in Doctor Management module,Core Logic
+CHG-105,REQ-008,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Data Flow
+CHG-106,REQ-069,Laboratory,Refactoring,R5,Code refactoring in Laboratory module,Security
+CHG-107,REQ-081,Billing,New Feature,R5,New functionality added to Billing,Integration
+CHG-108,REQ-074,Radiology,Enhancement,R5,Performance improvement in Radiology,Core Logic
+CHG-109,REQ-021,Doctor Management,Configuration,R5,Configuration update for Doctor Management,Core Logic
+CHG-110,REQ-032,Emergency Department,New Feature,R5,New functionality added to Emergency Department,UI
+CHG-111,REQ-082,Billing,New Feature,R5,New functionality added to Billing,Core Logic
+CHG-112,REQ-066,Laboratory,New Feature,R5,New functionality added to Laboratory,Data Flow
+CHG-113,REQ-037,Emergency Department,Configuration,R5,Configuration update for Emergency Department,Integration
+CHG-114,REQ-088,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Data Flow
+CHG-115,REQ-069,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,UI
+CHG-116,REQ-001,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,UI
+CHG-117,REQ-093,Insurance,Refactoring,R5,Code refactoring in Insurance module,Core Logic
+CHG-118,REQ-102,Medical Records,Enhancement,R5,Performance improvement in Medical Records,Integration
+CHG-119,REQ-105,Medical Records,Enhancement,R5,Performance improvement in Medical Records,Integration
+CHG-120,REQ-026,Doctor Management,Bug Fix,R5,Critical bug fix in Doctor Management workflow,Integration
+CHG-121,REQ-030,Doctor Management,New Feature,R5,New functionality added to Doctor Management,Integration
+CHG-122,REQ-043,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,UI
+CHG-123,REQ-050,Inpatient Management,Configuration,R5,Configuration update for Inpatient Management,Integration
+CHG-124,REQ-056,Pharmacy,New Feature,R5,New functionality added to Pharmacy,Security
+CHG-125,REQ-083,Billing,Configuration,R5,Configuration update for Billing,Integration
+CHG-126,REQ-095,Insurance,Configuration,R5,Configuration update for Insurance,Core Logic
+CHG-127,REQ-052,Pharmacy,Configuration,R5,Configuration update for Pharmacy,Data Flow
+CHG-128,REQ-009,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Integration
+CHG-129,REQ-035,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Core Logic
+CHG-130,REQ-057,Pharmacy,New Feature,R5,New functionality added to Pharmacy,Security
+CHG-131,REQ-006,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Security
+CHG-132,REQ-098,Insurance,Bug Fix,R5,Critical bug fix in Insurance workflow,Data Flow
+CHG-133,REQ-099,Insurance,Enhancement,R5,Performance improvement in Insurance,Core Logic
+CHG-134,REQ-040,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Data Flow
+CHG-135,REQ-059,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Security
+CHG-136,REQ-001,Patient Registration,New Feature,R5,New functionality added to Patient Registration,Security
+CHG-137,REQ-112,User Access Management,Bug Fix,R5,Critical bug fix in User Access Management workflow,Integration
+CHG-138,REQ-009,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,UI
+CHG-139,REQ-020,Appointment Management,Bug Fix,R5,Critical bug fix in Appointment Management workflow,Integration
+CHG-140,REQ-019,Appointment Management,New Feature,R5,New functionality added to Appointment Management,Data Flow
+CHG-141,REQ-050,Inpatient Management,Enhancement,R5,Performance improvement in Inpatient Management,Data Flow
+CHG-142,REQ-022,Doctor Management,Bug Fix,R5,Critical bug fix in Doctor Management workflow,Integration
+CHG-143,REQ-037,Emergency Department,Configuration,R5,Configuration update for Emergency Department,Core Logic
+CHG-144,REQ-058,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,UI
+CHG-145,REQ-077,Radiology,New Feature,R5,New functionality added to Radiology,UI
+CHG-146,REQ-049,Inpatient Management,Refactoring,R5,Code refactoring in Inpatient Management module,Data Flow
+CHG-147,REQ-010,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Data Flow
+CHG-148,REQ-056,Pharmacy,Configuration,R5,Configuration update for Pharmacy,Data Flow
+CHG-149,REQ-062,Laboratory,Refactoring,R5,Code refactoring in Laboratory module,Integration
+CHG-150,REQ-010,Patient Registration,Refactoring,R5,Code refactoring in Patient Registration module,UI
+CHG-151,REQ-052,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Core Logic
+CHG-152,REQ-007,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,UI
+CHG-153,REQ-094,Insurance,Enhancement,R5,Performance improvement in Insurance,Data Flow
+CHG-154,REQ-068,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,Security
+CHG-155,REQ-001,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Core Logic
+CHG-156,REQ-040,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Core Logic
+CHG-157,REQ-099,Insurance,Bug Fix,R5,Critical bug fix in Insurance workflow,Core Logic
+CHG-158,REQ-060,Pharmacy,Enhancement,R5,Performance improvement in Pharmacy,Data Flow
+CHG-159,REQ-028,Doctor Management,Configuration,R5,Configuration update for Doctor Management,Data Flow
+CHG-160,REQ-087,Billing,Configuration,R5,Configuration update for Billing,Core Logic
+CHG-161,REQ-007,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Security
+CHG-162,REQ-069,Laboratory,Configuration,R5,Configuration update for Laboratory,Integration
+CHG-163,REQ-054,Pharmacy,Configuration,R5,Configuration update for Pharmacy,Core Logic
+CHG-164,REQ-038,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Core Logic
+CHG-165,REQ-089,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Core Logic
+CHG-166,REQ-026,Doctor Management,Bug Fix,R5,Critical bug fix in Doctor Management workflow,Security
+CHG-167,REQ-022,Doctor Management,Configuration,R5,Configuration update for Doctor Management,Data Flow
+CHG-168,REQ-084,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,Integration
+CHG-169,REQ-031,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Core Logic
+CHG-170,REQ-097,Insurance,Configuration,R5,Configuration update for Insurance,Core Logic
+CHG-171,REQ-088,Billing,Configuration,R5,Configuration update for Billing,UI
+CHG-172,REQ-076,Radiology,Bug Fix,R5,Critical bug fix in Radiology workflow,UI
+CHG-173,REQ-061,Laboratory,Enhancement,R5,Performance improvement in Laboratory,Data Flow
+CHG-174,REQ-103,Medical Records,New Feature,R5,New functionality added to Medical Records,UI
+CHG-175,REQ-108,Medical Records,Bug Fix,R5,Critical bug fix in Medical Records workflow,UI
+CHG-176,REQ-090,Billing,Enhancement,R5,Performance improvement in Billing,Security
+CHG-177,REQ-070,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,Core Logic
+CHG-178,REQ-047,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Integration
+CHG-179,REQ-031,Emergency Department,Configuration,R5,Configuration update for Emergency Department,Core Logic
+CHG-180,REQ-120,User Access Management,Bug Fix,R5,Critical bug fix in User Access Management workflow,UI
+CHG-181,REQ-056,Pharmacy,New Feature,R5,New functionality added to Pharmacy,Data Flow
+CHG-182,REQ-036,Emergency Department,Refactoring,R5,Code refactoring in Emergency Department module,Security
+CHG-183,REQ-083,Billing,Configuration,R5,Configuration update for Billing,UI
+CHG-184,REQ-028,Doctor Management,Bug Fix,R5,Critical bug fix in Doctor Management workflow,Integration
+CHG-185,REQ-010,Patient Registration,New Feature,R5,New functionality added to Patient Registration,Core Logic
+CHG-186,REQ-090,Billing,Enhancement,R5,Performance improvement in Billing,Integration
+CHG-187,REQ-042,Inpatient Management,Configuration,R5,Configuration update for Inpatient Management,Data Flow
+CHG-188,REQ-024,Doctor Management,New Feature,R5,New functionality added to Doctor Management,Security
+CHG-189,REQ-037,Emergency Department,Configuration,R5,Configuration update for Emergency Department,UI
+CHG-190,REQ-013,Appointment Management,Refactoring,R5,Code refactoring in Appointment Management module,UI
+CHG-191,REQ-070,Laboratory,Refactoring,R5,Code refactoring in Laboratory module,Security
+CHG-192,REQ-042,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Security
+CHG-193,REQ-085,Billing,Configuration,R5,Configuration update for Billing,Core Logic
+CHG-194,REQ-031,Emergency Department,Refactoring,R5,Code refactoring in Emergency Department module,Core Logic
+CHG-195,REQ-036,Emergency Department,Bug Fix,R5,Critical bug fix in Emergency Department workflow,Integration
+CHG-196,REQ-044,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Data Flow
+CHG-197,REQ-046,Inpatient Management,Enhancement,R5,Performance improvement in Inpatient Management,Data Flow
+CHG-198,REQ-001,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Data Flow
+CHG-199,REQ-089,Billing,New Feature,R5,New functionality added to Billing,Security
+CHG-200,REQ-055,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Integration
+CHG-201,REQ-117,User Access Management,New Feature,R5,New functionality added to User Access Management,Core Logic
+CHG-202,REQ-056,Pharmacy,Enhancement,R5,Performance improvement in Pharmacy,Security
+CHG-203,REQ-062,Laboratory,New Feature,R5,New functionality added to Laboratory,Integration
+CHG-204,REQ-068,Laboratory,Bug Fix,R5,Critical bug fix in Laboratory workflow,Core Logic
+CHG-205,REQ-090,Billing,Enhancement,R5,Performance improvement in Billing,Core Logic
+CHG-206,REQ-090,Billing,New Feature,R5,New functionality added to Billing,Security
+CHG-207,REQ-056,Pharmacy,Enhancement,R5,Performance improvement in Pharmacy,Data Flow
+CHG-208,REQ-060,Pharmacy,New Feature,R5,New functionality added to Pharmacy,UI
+CHG-209,REQ-085,Billing,Bug Fix,R5,Critical bug fix in Billing workflow,UI
+CHG-210,REQ-031,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Integration
+CHG-211,REQ-031,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Integration
+CHG-212,REQ-015,Appointment Management,New Feature,R5,New functionality added to Appointment Management,UI
+CHG-213,REQ-017,Appointment Management,New Feature,R5,New functionality added to Appointment Management,Security
+CHG-214,REQ-006,Patient Registration,New Feature,R5,New functionality added to Patient Registration,Core Logic
+CHG-215,REQ-035,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Data Flow
+CHG-216,REQ-050,Inpatient Management,Enhancement,R5,Performance improvement in Inpatient Management,UI
+CHG-217,REQ-050,Inpatient Management,Configuration,R5,Configuration update for Inpatient Management,Integration
+CHG-218,REQ-066,Laboratory,Refactoring,R5,Code refactoring in Laboratory module,Security
+CHG-219,REQ-091,Insurance,Bug Fix,R5,Critical bug fix in Insurance workflow,Data Flow
+CHG-220,REQ-047,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Security
+CHG-221,REQ-101,Medical Records,Enhancement,R5,Performance improvement in Medical Records,UI
+CHG-222,REQ-039,Emergency Department,Bug Fix,R5,Critical bug fix in Emergency Department workflow,UI
+CHG-223,REQ-024,Doctor Management,Bug Fix,R5,Critical bug fix in Doctor Management workflow,Data Flow
+CHG-224,REQ-100,Insurance,Bug Fix,R5,Critical bug fix in Insurance workflow,Integration
+CHG-225,REQ-054,Pharmacy,Enhancement,R5,Performance improvement in Pharmacy,UI
+CHG-226,REQ-057,Pharmacy,New Feature,R5,New functionality added to Pharmacy,Security
+CHG-227,REQ-111,User Access Management,Enhancement,R5,Performance improvement in User Access Management,Core Logic
+CHG-228,REQ-040,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Data Flow
+CHG-229,REQ-094,Insurance,Bug Fix,R5,Critical bug fix in Insurance workflow,Integration
+CHG-230,REQ-017,Appointment Management,New Feature,R5,New functionality added to Appointment Management,Security
+CHG-231,REQ-052,Pharmacy,Configuration,R5,Configuration update for Pharmacy,Core Logic
+CHG-232,REQ-070,Laboratory,Enhancement,R5,Performance improvement in Laboratory,Security
+CHG-233,REQ-008,Patient Registration,Configuration,R5,Configuration update for Patient Registration,UI
+CHG-234,REQ-058,Pharmacy,New Feature,R5,New functionality added to Pharmacy,Integration
+CHG-235,REQ-033,Emergency Department,Refactoring,R5,Code refactoring in Emergency Department module,Integration
+CHG-236,REQ-057,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Security
+CHG-237,REQ-038,Emergency Department,New Feature,R5,New functionality added to Emergency Department,Security
+CHG-238,REQ-037,Emergency Department,Bug Fix,R5,Critical bug fix in Emergency Department workflow,Core Logic
+CHG-239,REQ-035,Emergency Department,Refactoring,R5,Code refactoring in Emergency Department module,Security
+CHG-240,REQ-119,User Access Management,Refactoring,R5,Code refactoring in User Access Management module,Integration
+CHG-241,REQ-034,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Data Flow
+CHG-242,REQ-111,User Access Management,New Feature,R5,New functionality added to User Access Management,UI
+CHG-243,REQ-066,Laboratory,Refactoring,R5,Code refactoring in Laboratory module,Security
+CHG-244,REQ-057,Pharmacy,Bug Fix,R5,Critical bug fix in Pharmacy workflow,Security
+CHG-245,REQ-076,Radiology,Enhancement,R5,Performance improvement in Radiology,Security
+CHG-246,REQ-008,Patient Registration,Bug Fix,R5,Critical bug fix in Patient Registration workflow,Core Logic
+CHG-247,REQ-040,Emergency Department,Enhancement,R5,Performance improvement in Emergency Department,Security
+CHG-248,REQ-106,Medical Records,New Feature,R5,New functionality added to Medical Records,Data Flow
+CHG-249,REQ-083,Billing,Enhancement,R5,Performance improvement in Billing,Core Logic
+CHG-250,REQ-046,Inpatient Management,Bug Fix,R5,Critical bug fix in Inpatient Management workflow,Integration

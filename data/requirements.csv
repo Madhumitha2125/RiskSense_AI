@@ -1,0 +1,121 @@
+req_id,module,requirement_name,priority,type,release
+REQ-001,Patient Registration,Patient Registration - Requirement 1,High,Compliance,R4
+REQ-002,Patient Registration,Patient Registration - Requirement 2,Critical,Compliance,R3
+REQ-003,Patient Registration,Patient Registration - Requirement 3,Medium,Functional,R4
+REQ-004,Patient Registration,Patient Registration - Requirement 4,High,Compliance,R2
+REQ-005,Patient Registration,Patient Registration - Requirement 5,Medium,Non-Functional,R3
+REQ-006,Patient Registration,Patient Registration - Requirement 6,High,Functional,R1
+REQ-007,Patient Registration,Patient Registration - Requirement 7,High,Performance,R4
+REQ-008,Patient Registration,Patient Registration - Requirement 8,Low,Compliance,R2
+REQ-009,Patient Registration,Patient Registration - Requirement 9,Critical,Non-Functional,R4
+REQ-010,Patient Registration,Patient Registration - Requirement 10,Critical,Security,R1
+REQ-011,Appointment Management,Appointment Management - Requirement 11,Low,Functional,R4
+REQ-012,Appointment Management,Appointment Management - Requirement 12,Medium,Functional,R2
+REQ-013,Appointment Management,Appointment Management - Requirement 13,Medium,Functional,R1
+REQ-014,Appointment Management,Appointment Management - Requirement 14,Medium,Performance,R3
+REQ-015,Appointment Management,Appointment Management - Requirement 15,Medium,Performance,R4
+REQ-016,Appointment Management,Appointment Management - Requirement 16,Medium,Functional,R4
+REQ-017,Appointment Management,Appointment Management - Requirement 17,High,Functional,R3
+REQ-018,Appointment Management,Appointment Management - Requirement 18,Low,Security,R1
+REQ-019,Appointment Management,Appointment Management - Requirement 19,Low,Non-Functional,R4
+REQ-020,Appointment Management,Appointment Management - Requirement 20,High,Functional,R3
+REQ-021,Doctor Management,Doctor Management - Requirement 21,Medium,Security,R3
+REQ-022,Doctor Management,Doctor Management - Requirement 22,Medium,Security,R4
+REQ-023,Doctor Management,Doctor Management - Requirement 23,Medium,Functional,R3
+REQ-024,Doctor Management,Doctor Management - Requirement 24,High,Non-Functional,R2
+REQ-025,Doctor Management,Doctor Management - Requirement 25,High,Functional,R5
+REQ-026,Doctor Management,Doctor Management - Requirement 26,High,Security,R2
+REQ-027,Doctor Management,Doctor Management - Requirement 27,Low,Security,R3
+REQ-028,Doctor Management,Doctor Management - Requirement 28,Low,Functional,R2
+REQ-029,Doctor Management,Doctor Management - Requirement 29,Critical,Performance,R1
+REQ-030,Doctor Management,Doctor Management - Requirement 30,High,Non-Functional,R2
+REQ-031,Emergency Department,Emergency Department - Requirement 31,Medium,Non-Functional,R1
+REQ-032,Emergency Department,Emergency Department - Requirement 32,High,Security,R2
+REQ-033,Emergency Department,Emergency Department - Requirement 33,Critical,Functional,R2
+REQ-034,Emergency Department,Emergency Department - Requirement 34,Low,Security,R5
+REQ-035,Emergency Department,Emergency Department - Requirement 35,Low,Performance,R2
+REQ-036,Emergency Department,Emergency Department - Requirement 36,High,Functional,R4
+REQ-037,Emergency Department,Emergency Department - Requirement 37,Low,Non-Functional,R1
+REQ-038,Emergency Department,Emergency Department - Requirement 38,High,Security,R1
+REQ-039,Emergency Department,Emergency Department - Requirement 39,Medium,Performance,R1
+REQ-040,Emergency Department,Emergency Department - Requirement 40,High,Security,R4
+REQ-041,Inpatient Management,Inpatient Management - Requirement 41,Medium,Functional,R3
+REQ-042,Inpatient Management,Inpatient Management - Requirement 42,Critical,Non-Functional,R2
+REQ-043,Inpatient Management,Inpatient Management - Requirement 43,Critical,Functional,R2
+REQ-044,Inpatient Management,Inpatient Management - Requirement 44,High,Compliance,R3
+REQ-045,Inpatient Management,Inpatient Management - Requirement 45,High,Security,R3
+REQ-046,Inpatient Management,Inpatient Management - Requirement 46,Low,Non-Functional,R1
+REQ-047,Inpatient Management,Inpatient Management - Requirement 47,Critical,Non-Functional,R4
+REQ-048,Inpatient Management,Inpatient Management - Requirement 48,Low,Security,R2
+REQ-049,Inpatient Management,Inpatient Management - Requirement 49,High,Functional,R2
+REQ-050,Inpatient Management,Inpatient Management - Requirement 50,High,Functional,R3
+REQ-051,Pharmacy,Pharmacy - Requirement 51,Medium,Functional,R4
+REQ-052,Pharmacy,Pharmacy - Requirement 52,Critical,Security,R3
+REQ-053,Pharmacy,Pharmacy - Requirement 53,Medium,Performance,R2
+REQ-054,Pharmacy,Pharmacy - Requirement 54,Critical,Compliance,R4
+REQ-055,Pharmacy,Pharmacy - Requirement 55,Critical,Security,R1
+REQ-056,Pharmacy,Pharmacy - Requirement 56,Medium,Performance,R2
+REQ-057,Pharmacy,Pharmacy - Requirement 57,Low,Functional,R2
+REQ-058,Pharmacy,Pharmacy - Requirement 58,Critical,Compliance,R3
+REQ-059,Pharmacy,Pharmacy - Requirement 59,Critical,Non-Functional,R1
+REQ-060,Pharmacy,Pharmacy - Requirement 60,Medium,Performance,R5
+REQ-061,Laboratory,Laboratory - Requirement 61,Low,Non-Functional,R5
+REQ-062,Laboratory,Laboratory - Requirement 62,Medium,Security,R2
+REQ-063,Laboratory,Laboratory - Requirement 63,Critical,Performance,R2
+REQ-064,Laboratory,Laboratory - Requirement 64,Low,Functional,R2
+REQ-065,Laboratory,Laboratory - Requirement 65,Low,Functional,R1
+REQ-066,Laboratory,Laboratory - Requirement 66,Medium,Compliance,R1
+REQ-067,Laboratory,Laboratory - Requirement 67,High,Performance,R1
+REQ-068,Laboratory,Laboratory - Requirement 68,Medium,Functional,R5
+REQ-069,Laboratory,Laboratory - Requirement 69,High,Functional,R1
+REQ-070,Laboratory,Laboratory - Requirement 70,Critical,Non-Functional,R3
+REQ-071,Radiology,Radiology - Requirement 71,Medium,Functional,R3
+REQ-072,Radiology,Radiology - Requirement 72,Low,Performance,R4
+REQ-073,Radiology,Radiology - Requirement 73,High,Compliance,R1
+REQ-074,Radiology,Radiology - Requirement 74,Medium,Non-Functional,R2
+REQ-075,Radiology,Radiology - Requirement 75,Low,Functional,R3
+REQ-076,Radiology,Radiology - Requirement 76,Critical,Security,R5
+REQ-077,Radiology,Radiology - Requirement 77,High,Functional,R3
+REQ-078,Radiology,Radiology - Requirement 78,Low,Security,R2
+REQ-079,Radiology,Radiology - Requirement 79,Low,Non-Functional,R5
+REQ-080,Radiology,Radiology - Requirement 80,Critical,Functional,R4
+REQ-081,Billing,Billing - Requirement 81,Medium,Functional,R4
+REQ-082,Billing,Billing - Requirement 82,Medium,Compliance,R3
+REQ-083,Billing,Billing - Requirement 83,High,Functional,R3
+REQ-084,Billing,Billing - Requirement 84,Medium,Compliance,R2
+REQ-085,Billing,Billing - Requirement 85,High,Functional,R2
+REQ-086,Billing,Billing - Requirement 86,Low,Functional,R4
+REQ-087,Billing,Billing - Requirement 87,Medium,Functional,R1
+REQ-088,Billing,Billing - Requirement 88,High,Functional,R4
+REQ-089,Billing,Billing - Requirement 89,High,Functional,R5
+REQ-090,Billing,Billing - Requirement 90,Critical,Functional,R1
+REQ-091,Insurance,Insurance - Requirement 91,High,Functional,R1
+REQ-092,Insurance,Insurance - Requirement 92,Low,Functional,R3
+REQ-093,Insurance,Insurance - Requirement 93,Medium,Compliance,R2
+REQ-094,Insurance,Insurance - Requirement 94,Critical,Functional,R5
+REQ-095,Insurance,Insurance - Requirement 95,High,Security,R1
+REQ-096,Insurance,Insurance - Requirement 96,Critical,Functional,R2
+REQ-097,Insurance,Insurance - Requirement 97,High,Performance,R3
+REQ-098,Insurance,Insurance - Requirement 98,Low,Functional,R1
+REQ-099,Insurance,Insurance - Requirement 99,Low,Compliance,R4
+REQ-100,Insurance,Insurance - Requirement 100,Low,Security,R4
+REQ-101,Medical Records,Medical Records - Requirement 101,High,Non-Functional,R4
+REQ-102,Medical Records,Medical Records - Requirement 102,Low,Non-Functional,R3
+REQ-103,Medical Records,Medical Records - Requirement 103,Medium,Functional,R2
+REQ-104,Medical Records,Medical Records - Requirement 104,Medium,Non-Functional,R1
+REQ-105,Medical Records,Medical Records - Requirement 105,Medium,Functional,R1
+REQ-106,Medical Records,Medical Records - Requirement 106,Medium,Security,R2
+REQ-107,Medical Records,Medical Records - Requirement 107,Low,Compliance,R2
+REQ-108,Medical Records,Medical Records - Requirement 108,Medium,Non-Functional,R2
+REQ-109,Medical Records,Medical Records - Requirement 109,Low,Performance,R4
+REQ-110,Medical Records,Medical Records - Requirement 110,Medium,Functional,R3
+REQ-111,User Access Management,User Access Management - Requirement 111,High,Security,R4
+REQ-112,User Access Management,User Access Management - Requirement 112,High,Security,R5
+REQ-113,User Access Management,User Access Management - Requirement 113,Low,Functional,R1
+REQ-114,User Access Management,User Access Management - Requirement 114,High,Compliance,R5
+REQ-115,User Access Management,User Access Management - Requirement 115,Medium,Performance,R4
+REQ-116,User Access Management,User Access Management - Requirement 116,Low,Functional,R4
+REQ-117,User Access Management,User Access Management - Requirement 117,Critical,Security,R3
+REQ-118,User Access Management,User Access Management - Requirement 118,Medium,Security,R1
+REQ-119,User Access Management,User Access Management - Requirement 119,Medium,Performance,R2
+REQ-120,User Access Management,User Access Management - Requirement 120,Medium,Security,R4
