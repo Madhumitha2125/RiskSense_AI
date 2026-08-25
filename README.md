@@ -114,3 +114,4 @@ uv run streamlit run app.py
 ```
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
+Domain Link: https://risksenseai-dpjmqwxopxeudrg7vgwapb.streamlit.app/
